@@ -1,0 +1,4096 @@
+Rafael N P Silva;38;17,40
+Dalila G L da Rocha;75;26,80
+Gabriel C Z de Araujo;34;20,50
+João X Y França;46;28,30
+Davi W P de Souza;23;18,80
+Brian A I Brandão;22;18,80
+Rafael O U Saldanha;56;16,80
+André G D França;77;26,90
+Rafael O M Saldanha;27;24,60
+Rafael D A de Araujo;47;16,70
+João U F de Araujo;38;15,80
+Willer T P França;42;20,30
+João E S de Araujo;29;27,00
+André P Y Saldanha;58;28,10
+Davi H H Vargas;37;23,70
+Rafael Z I Saldanha;80;16,00
+Daniel R F Brandão;45;21,40
+Daniel V P França;37;16,80
+Bruna Z R Macedo;49;18,80
+Gabriel S X da Rocha;41;18,40
+Willer G Q Macedo;63;26,50
+André N L Vieira;66;21,40
+Fernando K O Brandão;53;23,90
+Fernando J U de Araujo;41;27,60
+Willer Q E de Souza;17;21,10
+Bruna D E da Rocha;75;23,70
+Gabriel Q X Vargas;19;15,00
+Gabriel B I Silva;24;16,60
+Gabriel O E Brandão;30;21,00
+Dalila P Z Vieira;55;28,60
+Lucas C C de Souza;80;19,20
+Gabriel I H Badaró;28;28,50
+Willer J B Badaró;55;23,00
+Davi R L Macedo;26;21,30
+Bruna S A Silva;23;20,00
+João W J da Rocha;45;15,00
+Dalila V F Badaró;74;26,60
+Dalila C Q Badaró;68;21,60
+Brian K Y França;65;16,90
+André U H Saldanha;41;28,90
+André W R Silva;46;20,80
+Willer L L da Rocha;18;25,90
+Brian J Z Silva;27;28,00
+Lucas A I Saldanha;77;28,50
+Gabriel X T da Rocha;31;24,80
+Willer N I de Araujo;39;24,80
+Gabriel V M Silva;17;15,10
+Daniel M V de Araujo;47;25,70
+Brian R N Saldanha;45;28,20
+Bruna J Z Silva;31;23,40
+Willer T N Vargas;77;27,70
+Daniel P K Brandão;41;20,00
+Gabriel F O Badaró;51;15,30
+João N V Saldanha;26;23,70
+Brian B F Macedo;53;24,40
+Davi Y W Macedo;51;27,20
+André A U Vargas;29;28,70
+Davi T P Vargas;60;22,70
+Willer B O Brandão;32;24,30
+Lucas A J da Rocha;80;28,70
+André W J França;77;20,50
+Brian I C da Rocha;37;16,90
+Lucas Z S Saldanha;33;22,40
+Rafael D D Saldanha;23;21,60
+Daniel B O Vargas;54;18,60
+Bruna G C França;58;16,10
+Brian F X Vieira;35;25,40
+Fernando X A França;32;18,70
+Lucas F A França;75;27,00
+Fernando L V França;39;26,10
+Willer B H Macedo;80;28,70
+Rafael H S de Araujo;19;17,50
+Daniel U N Vieira;21;19,80
+Willer K J Vargas;37;19,90
+Brian L M Badaró;33;21,10
+Fernando O M Badaró;58;21,50
+André O Y Badaró;66;27,60
+Willer R X França;42;21,70
+Gabriel A F Vieira;26;22,40
+Rafael A U de Araujo;40;28,90
+João Z U Saldanha;30;23,30
+João V V Saldanha;38;15,20
+Bruna Y B Vargas;75;17,90
+Davi M E Vargas;58;22,40
+Lucas O G Macedo;38;24,30
+Brian E C Silva;49;19,30
+Dalila W P Saldanha;52;16,50
+Dalila P F Silva;74;18,40
+Gabriel F A Saldanha;48;15,30
+Willer D C França;23;24,70
+André C Y França;55;15,30
+Fernando U B França;51;27,10
+Bruna A R da Rocha;21;27,30
+João B Z Badaró;53;26,60
+Daniel Q Z Badaró;32;25,30
+João K Z França;45;21,60
+João B S Silva;62;23,30
+Gabriel D X Vargas;28;21,40
+Dalila U D Brandão;78;24,50
+Brian Z O Saldanha;80;17,00
+Dalila O O de Souza;18;28,70
+Lucas D C Saldanha;73;26,70
+Rafael Z F Macedo;45;21,70
+Fernando G P de Araujo;33;22,20
+Rafael X M de Araujo;41;23,40
+André R W Vargas;48;22,40
+Daniel I L Vargas;50;24,70
+Bruna C F França;32;17,90
+Willer M E de Araujo;61;24,10
+Brian R V Silva;65;24,70
+Bruna T W de Araujo;74;24,10
+Willer M E Vieira;60;16,40
+Willer P S Saldanha;40;21,00
+Brian J K França;61;17,20
+Gabriel S T Vargas;54;16,40
+André U D Silva;20;26,40
+Daniel C Q França;51;24,60
+Gabriel U P Vargas;38;26,30
+André F U França;70;23,00
+Willer Q Y Saldanha;39;24,90
+Fernando A Q Macedo;31;18,50
+João J Y Vieira;24;23,30
+Bruna Z H Silva;48;24,80
+Bruna X U Vieira;33;23,80
+Willer E S Saldanha;33;27,10
+Dalila F V França;45;27,10
+Brian E B Badaró;22;20,50
+Bruna D V Silva;26;20,10
+Willer C F de Souza;27;15,90
+Bruna R F França;33;23,10
+Brian S K da Rocha;39;16,00
+João Q G de Araujo;79;25,40
+Bruna E N Saldanha;63;27,50
+Rafael K Q Silva;48;28,00
+Dalila J S França;27;15,70
+Willer Q P de Araujo;21;18,30
+Bruna T X da Rocha;51;28,40
+João B R Macedo;56;16,80
+Fernando W N Saldanha;63;18,60
+Bruna V J de Araujo;69;21,50
+Davi P X Brandão;77;18,30
+João F B Saldanha;72;24,30
+Davi G H França;17;23,60
+Daniel J P Silva;76;20,80
+André B T da Rocha;64;28,10
+Fernando N A Silva;31;17,60
+Willer P A Badaró;22;27,70
+Daniel J M da Rocha;39;24,50
+Rafael X Z de Souza;48;19,70
+Davi P H Macedo;72;16,20
+Fernando W U Vargas;54;19,20
+Fernando X V de Souza;48;23,60
+Daniel R T Brandão;40;22,50
+Daniel R I de Souza;39;22,10
+Daniel Z M de Souza;56;25,10
+Gabriel G M França;76;16,80
+Bruna V V da Rocha;24;27,70
+Rafael K F Vargas;56;15,20
+Dalila S F Vieira;65;18,40
+Rafael Y J França;76;24,10
+Dalila V L Brandão;30;20,80
+Daniel X B de Souza;21;24,30
+Gabriel S N Silva;31;15,20
+Willer R S Saldanha;79;18,90
+Lucas Q H da Rocha;47;27,80
+Rafael I H Macedo;73;16,60
+Daniel M B França;36;28,00
+João T G Saldanha;26;17,80
+Brian R A Saldanha;55;24,70
+Gabriel S D Vargas;32;28,20
+Dalila O M de Araujo;51;26,30
+Gabriel M T da Rocha;71;16,60
+André H J Silva;36;28,40
+Davi S X Vieira;68;22,50
+Rafael W H Brandão;63;23,50
+Lucas M R Badaró;54;18,70
+Lucas X B de Araujo;28;18,50
+Bruna U K Badaró;51;20,20
+Fernando Z I Vieira;57;20,00
+Daniel O E Brandão;67;16,40
+João D U Saldanha;39;23,80
+Bruna A T Saldanha;64;26,10
+Brian I N Macedo;24;24,70
+João I G Vieira;47;17,80
+Gabriel U D Silva;18;19,40
+Rafael Q X Saldanha;54;19,90
+Lucas F U França;65;28,30
+Brian P T de Araujo;49;21,30
+Bruna M N Saldanha;25;19,70
+João A H Brandão;45;23,20
+Lucas F D Brandão;22;21,10
+Dalila N C Silva;57;22,00
+Bruna Q P Macedo;53;25,00
+André O G Macedo;60;26,60
+Gabriel V I de Souza;57;27,40
+Bruna F N Vargas;46;25,50
+André C V Macedo;38;17,50
+Rafael C I França;47;26,80
+Fernando O M Silva;19;16,50
+Gabriel H G França;28;15,20
+Davi G Z de Araujo;79;27,80
+Gabriel F G Brandão;43;26,90
+João R C Brandão;61;24,30
+Bruna P X Brandão;27;22,80
+Gabriel W A Vieira;75;22,50
+Willer I K Vieira;19;26,90
+Davi J J Badaró;76;23,40
+Daniel G L de Souza;38;21,80
+Bruna K V da Rocha;59;17,80
+João L S Vargas;78;26,20
+Lucas S F Saldanha;33;18,40
+Davi Y T Brandão;47;19,20
+Daniel F N Saldanha;28;17,20
+André E U da Rocha;50;26,10
+Dalila F G da Rocha;78;16,70
+Davi F K Badaró;43;19,90
+Daniel O N Saldanha;72;26,80
+Rafael N J Saldanha;61;20,30
+Brian Y F Badaró;37;15,10
+Lucas E E Vieira;39;17,20
+Rafael F C de Souza;39;27,40
+Brian W D Macedo;34;17,00
+Willer I S Saldanha;19;24,50
+Daniel J L da Rocha;17;20,00
+Rafael Y D Vargas;35;18,90
+Brian D D Saldanha;46;19,80
+Fernando Q O Macedo;70;16,30
+Gabriel A N Vargas;56;20,70
+Rafael E D Macedo;72;17,40
+Dalila L T Vargas;74;26,90
+Dalila W C Vargas;66;28,90
+Fernando S B França;67;22,00
+André B Q Badaró;79;18,50
+Bruna H U Vargas;36;22,10
+Dalila I J Badaró;20;23,30
+Bruna M V França;72;23,20
+Gabriel D P França;72;26,90
+João C W Saldanha;80;22,00
+Dalila R V Vieira;40;18,90
+Brian V M Badaró;42;26,00
+Willer Q W Macedo;18;21,40
+Dalila T G Vieira;72;25,40
+Dalila O V Badaró;18;20,40
+Dalila M G Saldanha;48;25,80
+Bruna V D Macedo;64;18,10
+Daniel F J de Araujo;49;18,90
+Dalila V J de Araujo;31;15,60
+André Q F de Souza;59;24,60
+Gabriel D S Vieira;52;28,10
+Lucas M S França;22;27,70
+Davi V K Silva;41;24,80
+Rafael W S de Souza;22;25,00
+Rafael J M Saldanha;44;24,70
+Gabriel Q S Macedo;59;16,80
+Gabriel E J França;50;16,10
+Brian T G Saldanha;19;20,60
+André G N Badaró;65;18,70
+Davi Z W Saldanha;54;20,10
+Gabriel O Y Brandão;47;15,50
+Daniel Y O França;45;19,30
+André Y W Saldanha;80;16,60
+Gabriel C B Saldanha;77;22,50
+Dalila J N Brandão;27;20,90
+Lucas F N Badaró;66;27,10
+Rafael D G Macedo;22;21,80
+Dalila H Z Brandão;17;22,00
+João J D Brandão;55;27,60
+Gabriel I O França;49;15,30
+Lucas Q V Badaró;64;24,80
+Willer A F da Rocha;64;24,40
+Dalila R S Vieira;59;18,30
+Fernando Z N França;47;16,00
+Daniel D L da Rocha;75;23,70
+Lucas W F Silva;47;21,40
+Fernando T J de Araujo;20;23,30
+Rafael H T de Souza;70;28,90
+Bruna G C da Rocha;22;24,20
+Rafael P C da Rocha;20;17,20
+Gabriel F F da Rocha;19;23,10
+Brian J J Badaró;26;26,50
+Brian N Q Vieira;72;16,70
+Gabriel H T França;35;19,70
+Gabriel J O Brandão;29;20,90
+Bruna H F Badaró;36;20,40
+Dalila V L França;35;17,10
+Dalila Q R Saldanha;70;27,40
+Daniel C P Badaró;36;19,90
+Dalila Q Z Saldanha;37;24,30
+Fernando F T da Rocha;18;26,10
+Gabriel K A Macedo;30;15,80
+Davi A C Vieira;77;15,90
+Davi V H da Rocha;32;16,10
+Lucas R U de Araujo;28;21,40
+Fernando K B Vieira;63;26,60
+Rafael D N Saldanha;56;28,60
+Rafael S I de Araujo;39;27,90
+João C M de Araujo;19;24,10
+Willer X E Badaró;30;24,50
+Bruna G Y Silva;38;19,80
+Dalila V N Saldanha;79;26,50
+Lucas X D da Rocha;30;19,60
+Dalila A A de Souza;32;20,40
+Dalila N I Badaró;27;18,10
+Fernando Q I Brandão;43;27,40
+Lucas Q N de Araujo;20;21,60
+Lucas J C Macedo;80;23,40
+Fernando F K Saldanha;75;18,60
+Davi B B Saldanha;77;26,90
+Gabriel B O da Rocha;46;21,70
+Gabriel Y J Vieira;27;16,20
+Bruna G V Vargas;29;27,20
+Davi H H Brandão;53;19,80
+Davi L C Badaró;75;25,70
+Fernando Z L Brandão;28;28,10
+André G U da Rocha;71;17,90
+Bruna I C Vargas;66;16,20
+André I Y Badaró;34;19,70
+Bruna E W Macedo;25;20,90
+Dalila A O de Araujo;30;28,30
+Brian Z Q de Souza;38;21,90
+Davi B S Macedo;42;17,40
+Dalila M N Brandão;22;21,60
+Dalila B W da Rocha;33;17,10
+Davi H U Badaró;24;18,80
+André U X Vieira;56;28,70
+Lucas Z J Brandão;49;26,30
+Lucas J Z França;69;25,30
+Brian R M de Araujo;54;16,20
+João U L Macedo;34;19,60
+André L K Silva;56;15,20
+Willer V Q Vargas;63;18,70
+Daniel Z O de Souza;27;28,80
+Rafael C H Vieira;25;18,40
+Rafael V C da Rocha;64;24,10
+Davi E B da Rocha;73;28,30
+Gabriel Q A Badaró;23;20,90
+João I I Saldanha;78;26,60
+Davi Z H Silva;57;18,40
+Rafael S G Vargas;63;27,50
+Willer R L Vieira;23;20,30
+Willer N R Saldanha;75;20,00
+Gabriel Y M Macedo;55;27,60
+Willer S N Saldanha;30;15,70
+Rafael W Y de Araujo;60;28,70
+Gabriel X J Macedo;39;22,90
+Dalila X R Saldanha;34;16,30
+Daniel E Z Vargas;66;28,60
+Willer X M Saldanha;26;27,40
+Lucas I C de Araujo;52;22,30
+João M C de Araujo;39;23,50
+Bruna T B da Rocha;26;16,50
+Fernando O C Brandão;51;26,80
+Davi C I Badaró;26;18,80
+Daniel S E Vargas;41;15,50
+Dalila J T Silva;19;17,50
+Bruna N L da Rocha;32;26,40
+Lucas R V Brandão;54;17,10
+Rafael U V Saldanha;53;28,90
+Lucas A Y de Souza;18;27,20
+Bruna Y S Macedo;48;25,30
+Rafael L R Badaró;20;26,70
+André I Z Saldanha;17;27,10
+Fernando E Q França;78;22,70
+Daniel H S de Araujo;19;27,80
+João S D Vargas;57;18,00
+Willer P H Badaró;59;25,20
+Dalila D G Badaró;33;16,50
+Fernando V E Vargas;67;20,30
+Dalila A J França;72;23,60
+Bruna R X Saldanha;22;22,30
+Willer G X Vargas;21;23,10
+Brian N U de Araujo;35;26,70
+Lucas Q D de Souza;21;27,50
+Daniel U G de Souza;61;28,30
+Fernando A B Vargas;56;22,60
+Bruna S L Vargas;42;24,70
+Bruna P Y da Rocha;30;20,20
+Willer B U de Souza;33;20,20
+Davi N S Vargas;77;19,20
+Gabriel Q V Saldanha;51;17,80
+Willer O Q Brandão;40;20,40
+André B P de Souza;69;16,60
+Lucas R D de Souza;33;18,70
+Daniel U A Brandão;73;20,20
+Brian R Q Saldanha;71;23,80
+Brian K H Vieira;50;18,80
+Dalila I P Saldanha;55;21,30
+Dalila Q S de Souza;64;18,80
+Davi M J Brandão;59;17,50
+Rafael B U França;33;26,70
+Fernando P I Saldanha;65;20,10
+Daniel Z U Vieira;57;25,20
+Bruna Q C Vieira;22;26,20
+Bruna C A Saldanha;41;28,90
+Fernando M A de Araujo;48;25,30
+João X F Saldanha;67;18,10
+Lucas T U França;47;20,80
+André S A da Rocha;71;18,10
+Dalila Y V Saldanha;69;24,10
+Bruna G K da Rocha;22;27,00
+Bruna I S Brandão;34;25,20
+André S R Brandão;19;26,00
+Bruna I S Saldanha;33;21,50
+Bruna B X França;49;21,30
+Willer M B da Rocha;35;17,50
+Dalila M O Vieira;72;22,60
+Rafael W F Macedo;61;17,10
+João K X de Araujo;70;26,00
+Davi T I Macedo;65;21,00
+André D F Silva;18;18,90
+João Q I de Souza;39;17,40
+Fernando R F da Rocha;64;24,50
+Daniel B X Silva;40;24,80
+Rafael S I França;43;25,00
+Dalila W R Saldanha;21;21,10
+Rafael H H Saldanha;63;19,80
+Dalila D I Brandão;45;28,70
+Dalila B H Vargas;40;19,40
+Rafael B C Macedo;31;27,90
+Lucas H Z Badaró;22;19,00
+Gabriel N M Vargas;61;25,30
+Fernando A G de Souza;17;16,10
+Daniel G N da Rocha;44;19,90
+Willer J J Macedo;20;16,80
+Lucas N O de Souza;37;28,90
+Fernando D M de Araujo;76;21,00
+Gabriel B V de Souza;31;25,60
+Dalila J I Vieira;70;19,60
+Fernando P N Silva;40;17,10
+Dalila F S Vieira;80;24,40
+Davi A V Badaró;65;24,60
+Willer I X de Souza;41;27,00
+Fernando T X Macedo;79;27,30
+Willer F J Badaró;37;18,10
+Dalila B U Badaró;62;19,90
+Lucas R O Silva;46;24,10
+Dalila F D Badaró;57;17,20
+Rafael O A de Araujo;80;27,00
+Rafael L K Brandão;52;24,00
+Fernando C L de Araujo;67;28,60
+Dalila Y M Vargas;66;23,50
+João M V Brandão;79;23,40
+Gabriel Y R Saldanha;19;27,20
+Fernando G C Brandão;64;17,80
+Brian V S Macedo;50;22,40
+Davi L N de Araujo;58;16,10
+Davi V T França;72;25,50
+Daniel U L Macedo;30;27,40
+João Q B França;56;23,40
+Bruna L O Brandão;23;18,10
+André Z P de Araujo;61;16,80
+Rafael W U França;56;19,80
+Rafael E E Macedo;67;28,60
+Dalila H R França;50;21,70
+Davi O B Macedo;47;21,00
+André T M França;19;25,80
+André H K da Rocha;43;22,00
+Bruna V M Badaró;63;28,00
+Rafael Y M de Araujo;45;20,50
+Fernando L G Silva;31;28,40
+Willer E Q Saldanha;70;17,80
+Brian F V da Rocha;29;18,20
+Willer S J de Araujo;73;26,40
+Gabriel L E de Souza;26;26,00
+Dalila R Q de Souza;32;25,60
+Gabriel F M de Souza;30;25,60
+João V H França;76;20,70
+Dalila H X Vargas;75;17,40
+Dalila X M França;80;22,40
+Brian H Q Silva;73;23,90
+Brian R A de Araujo;36;27,20
+Davi P J de Souza;52;20,10
+Gabriel V X Vargas;41;23,20
+Lucas C E de Araujo;36;20,30
+Lucas F F Vargas;49;15,30
+Fernando B Y de Araujo;44;16,20
+Brian Q Z Vieira;39;28,60
+Willer F O Vieira;43;16,00
+Fernando A B Saldanha;67;22,70
+Davi X J Saldanha;45;25,20
+Brian N N da Rocha;32;17,70
+Willer M C Badaró;76;28,10
+Willer H X Badaró;28;19,30
+Gabriel S V de Souza;35;16,70
+Willer Z M de Souza;59;23,50
+Lucas O M de Araujo;63;22,10
+Willer O Z Saldanha;55;23,70
+Dalila G V Vargas;56;15,60
+Davi S B França;68;25,50
+Daniel L X de Souza;37;28,70
+Dalila A U de Araujo;66;15,40
+Rafael I T Silva;65;17,30
+Gabriel W O da Rocha;65;22,60
+Lucas U L Saldanha;27;24,80
+Lucas H X Brandão;18;22,60
+João S K da Rocha;32;20,90
+João O O Saldanha;59;23,00
+Gabriel G T Macedo;53;22,80
+Rafael N T de Souza;72;17,80
+Gabriel D D Macedo;23;16,40
+Davi W D Macedo;34;15,00
+Davi B X Vieira;45;26,60
+Dalila N T França;77;27,20
+Brian P W da Rocha;35;21,10
+Bruna W G Macedo;21;19,40
+Willer R Z de Araujo;28;26,00
+Davi M K Vargas;60;27,90
+Gabriel A Q França;69;17,60
+Willer O H Macedo;18;19,00
+Daniel Y R Saldanha;38;28,60
+Rafael H H Saldanha;80;27,50
+Gabriel U J Saldanha;35;16,40
+Fernando E N Brandão;80;20,60
+André J F Vieira;61;19,20
+Gabriel U B Saldanha;80;25,30
+André D V Silva;72;23,30
+Daniel H M Vargas;33;19,70
+Rafael H N de Araujo;42;28,00
+Gabriel V R Saldanha;59;23,10
+Brian A E Saldanha;35;20,90
+Bruna X J Brandão;48;22,00
+Fernando Z T Saldanha;51;26,20
+Daniel X Y de Souza;22;23,10
+Fernando J W Vargas;54;16,90
+João Z C de Souza;53;25,40
+Gabriel K L Vargas;34;20,00
+Gabriel A Y Badaró;39;21,10
+Davi X J Silva;26;27,10
+João I O Saldanha;69;25,00
+Rafael V Y Saldanha;54;27,20
+Brian U C de Araujo;23;16,90
+Lucas A N Macedo;67;22,50
+Dalila G A Saldanha;55;26,70
+Davi R T França;75;28,30
+Davi S Y França;48;28,00
+Dalila H Y Vargas;63;16,50
+Willer F P França;46;23,70
+Gabriel W C Vieira;22;23,80
+Bruna P G Badaró;47;15,80
+Daniel I S Brandão;50;18,20
+Gabriel Q Y Vargas;77;23,50
+Lucas L A da Rocha;27;23,70
+Brian P A Saldanha;44;28,80
+Willer C C Vargas;72;18,60
+Brian Q P de Souza;53;25,30
+André F D França;67;24,40
+Daniel T F de Souza;80;16,00
+João S G Saldanha;23;17,50
+Dalila F Z Brandão;65;18,00
+Dalila S K Macedo;53;17,00
+Davi G R de Souza;71;27,40
+Davi N N Vargas;68;17,70
+Davi W K Badaró;39;27,60
+Davi P Q Macedo;75;15,00
+André K A França;24;22,30
+Daniel X V Saldanha;51;26,70
+Davi V G de Araujo;44;23,80
+Davi G N Vieira;26;22,40
+Willer E X França;63;21,30
+João O M de Souza;36;19,10
+Davi D I da Rocha;35;26,50
+Rafael A F de Araujo;52;25,30
+Lucas F P Silva;28;26,00
+André I U Silva;68;27,30
+Lucas C T Silva;28;16,60
+João V U Badaró;40;17,10
+Daniel V A da Rocha;44;18,00
+Brian R V Silva;60;17,90
+Dalila A J Brandão;42;23,80
+Lucas R T França;37;22,70
+Bruna N J Vieira;33;16,40
+Davi R K Brandão;48;21,50
+Fernando D N Vargas;25;19,60
+Lucas Q T de Souza;60;28,40
+Dalila F L Brandão;61;24,70
+Fernando Z Y da Rocha;61;27,00
+Dalila O I Saldanha;75;18,60
+Lucas A M França;24;23,60
+Daniel J Y de Souza;43;15,90
+Rafael H T Saldanha;62;26,30
+João A C Badaró;57;18,30
+Dalila A X da Rocha;47;25,00
+Gabriel U T de Souza;27;24,00
+Brian R F Badaró;62;20,90
+Bruna F S de Souza;21;21,30
+Davi B D de Araujo;70;20,60
+Willer H U Saldanha;59;15,70
+Fernando H B Brandão;18;17,40
+Rafael A Z de Souza;40;26,60
+Dalila I M da Rocha;53;25,50
+Bruna P D Badaró;29;17,00
+Lucas B X Macedo;51;15,90
+Davi E L Silva;19;22,10
+Bruna F E Silva;45;16,10
+Davi D E Silva;53;25,60
+Bruna K L Saldanha;17;20,40
+João L F Saldanha;34;17,20
+Brian I K da Rocha;61;22,80
+Daniel X Q Silva;74;18,00
+Bruna W I Badaró;36;18,00
+Fernando X F Vieira;20;24,60
+Dalila J T Vargas;17;17,40
+Daniel U D França;57;20,80
+Lucas A B de Souza;19;16,10
+Willer T R Saldanha;63;15,10
+Gabriel F Z Saldanha;67;15,30
+João P H França;64;26,30
+Davi F M Saldanha;23;21,90
+André P Y França;64;16,40
+João U V de Araujo;66;28,90
+Rafael L G de Araujo;64;15,20
+Gabriel Z X Vargas;62;15,30
+Davi A Q Macedo;21;18,90
+Lucas J Y de Araujo;25;24,80
+Davi D O Saldanha;40;17,70
+Rafael H Q Brandão;67;17,10
+Davi Q Y Vieira;44;22,00
+Lucas P T França;60;26,00
+Fernando H M da Rocha;22;15,60
+André P O Vargas;67;15,70
+Rafael B W Saldanha;48;22,10
+Brian N K da Rocha;51;25,10
+Brian H I da Rocha;33;20,90
+Dalila S G de Souza;33;25,30
+Bruna S O Saldanha;71;16,80
+Lucas L E Saldanha;78;19,10
+Bruna N G Saldanha;28;17,10
+Brian H L Vargas;19;15,20
+Bruna F I Silva;41;28,70
+João B R Macedo;19;18,60
+Brian P D de Araujo;39;28,70
+Bruna I V Badaró;75;20,50
+Gabriel K V da Rocha;60;15,90
+Lucas C S de Souza;29;23,70
+João T B de Souza;41;28,70
+Daniel K V Macedo;55;16,00
+Bruna S R Brandão;29;23,20
+João D K Saldanha;20;16,50
+Willer I F Macedo;49;17,80
+Lucas A Z Badaró;58;27,30
+Brian S E Brandão;60;26,40
+Willer M I de Souza;21;22,10
+Bruna B O Saldanha;31;22,80
+Willer J M Macedo;53;18,00
+Daniel E O Macedo;76;21,00
+André I L Saldanha;29;18,20
+Brian T R Saldanha;52;20,10
+Fernando I O Brandão;66;25,50
+Daniel X Y Vargas;56;28,60
+Davi U X Vargas;57;15,10
+Gabriel G C França;47;21,00
+Fernando J E França;31;20,00
+Fernando V C Vargas;22;22,00
+Daniel N J Brandão;68;28,50
+Rafael Y S da Rocha;53;26,40
+Dalila W U de Souza;42;16,00
+Gabriel I X de Araujo;20;19,40
+Brian K T da Rocha;53;19,60
+Bruna B D de Souza;35;20,80
+Gabriel N A Saldanha;29;25,30
+Dalila H W Vargas;38;27,90
+Dalila M S de Araujo;61;19,60
+Rafael O X Vieira;41;18,20
+Lucas A G Badaró;56;21,20
+Davi P E França;44;23,40
+Brian D F Macedo;75;20,60
+Willer V L França;74;17,90
+Lucas K H de Souza;27;26,20
+Fernando Y K Vargas;48;18,30
+Gabriel R P Brandão;27;25,70
+Rafael H N Badaró;58;27,20
+Rafael S C de Araujo;23;27,20
+Davi E K de Araujo;26;21,30
+Willer F J de Araujo;37;21,20
+Bruna N E França;30;17,30
+Gabriel Z G Saldanha;43;19,40
+Fernando S A de Araujo;79;20,20
+Willer O S Vieira;22;25,20
+Dalila U M de Souza;69;24,20
+Gabriel M Z Vieira;27;19,60
+Lucas L S Vargas;77;16,20
+Brian I A de Araujo;46;24,40
+João X Z Saldanha;20;21,20
+Dalila G Y de Souza;43;18,30
+Rafael C K Badaró;42;24,30
+Lucas A P da Rocha;53;27,70
+Daniel J U Brandão;32;24,70
+Daniel Y S Vargas;33;17,70
+Dalila W W Saldanha;48;19,50
+Brian X F Vargas;20;25,10
+Daniel S X Silva;76;18,20
+Willer W R de Araujo;46;18,20
+João F E Vargas;40;27,60
+Daniel P A Macedo;80;28,40
+Brian H C Macedo;38;26,40
+André B Q Macedo;72;26,70
+André C U França;59;21,50
+André T R Badaró;62;28,20
+Daniel K H Vieira;49;15,70
+Daniel Q X de Araujo;57;16,90
+Gabriel D P Brandão;44;18,20
+Bruna K G Saldanha;49;18,80
+André C M Vieira;72;22,00
+Daniel I Z Saldanha;36;19,40
+Bruna L T França;49;20,90
+João S O Vieira;63;17,80
+Fernando N B Vargas;54;15,00
+André U A de Souza;32;17,40
+Bruna Z L Vieira;75;20,30
+Davi O D Badaró;53;20,30
+Fernando L G Vieira;53;28,20
+Dalila V M França;79;16,30
+Davi U E Saldanha;54;24,80
+Brian M U Macedo;25;27,30
+André D J da Rocha;40;27,70
+Dalila Y W Macedo;32;27,20
+Brian A C Silva;22;26,20
+João R E Vieira;80;26,50
+Dalila T C Badaró;17;22,40
+Gabriel E F Brandão;74;24,30
+Willer X R Saldanha;60;27,30
+Daniel M K Brandão;38;17,00
+Brian M J Silva;24;16,20
+Brian Z X França;54;27,10
+Daniel J V de Araujo;64;22,10
+Daniel M L França;66;21,10
+André L O de Souza;24;24,20
+Daniel S X Brandão;45;23,30
+Dalila R E Saldanha;49;19,80
+Davi L W Vieira;53;24,30
+Gabriel N E Vieira;61;18,70
+Daniel A G Vargas;49;27,50
+João H B Vieira;42;26,90
+Brian C I Brandão;52;17,70
+André N E Macedo;62;22,40
+Willer Y Q de Souza;77;22,50
+Dalila L X de Araujo;61;23,10
+Daniel G T Silva;22;26,00
+Lucas K A Macedo;26;17,50
+Daniel N V Vargas;62;18,20
+Bruna B I Vieira;24;16,10
+Lucas E K Badaró;55;28,10
+Gabriel E H de Araujo;52;23,60
+Fernando B Y Silva;29;24,90
+João A L de Araujo;62;18,20
+Gabriel Z L Macedo;63;18,00
+Rafael B V Saldanha;64;27,20
+Willer I L de Souza;61;18,40
+Bruna O U Vargas;35;18,50
+Lucas A V Vieira;40;27,90
+André P L de Araujo;44;26,70
+Daniel C W Vieira;25;15,80
+André W T Saldanha;31;19,70
+Dalila F W França;17;19,50
+Bruna A T Vargas;23;22,90
+André U J Silva;65;26,50
+Bruna G V Macedo;24;17,70
+Bruna P I Macedo;27;17,70
+Davi Q K de Souza;34;22,40
+Rafael P I Macedo;50;22,40
+Lucas E W Silva;19;26,10
+Willer C V Vieira;45;28,40
+João N H da Rocha;63;24,70
+André E C Brandão;18;18,90
+Gabriel T W Badaró;33;20,30
+Dalila C K de Araujo;37;27,20
+Bruna R Y Brandão;53;28,20
+Fernando Z I Vieira;71;24,30
+Bruna B Q Saldanha;23;18,60
+Gabriel Y F Silva;59;18,80
+Lucas L V Brandão;61;26,20
+Lucas M H Saldanha;45;28,70
+Lucas G N Vargas;54;27,60
+Willer B Q de Souza;29;21,30
+Gabriel V I da Rocha;50;15,70
+Gabriel O C Vieira;66;15,00
+Dalila L Q Badaró;39;17,70
+Lucas Q U de Souza;55;28,90
+João U E da Rocha;49;18,20
+Dalila Y S França;61;26,60
+Davi C V Vargas;32;17,80
+Fernando I W de Souza;19;17,30
+João W A Vieira;72;22,40
+André J W Macedo;46;21,30
+Brian Q D Vargas;61;17,10
+Rafael V Q Silva;33;28,40
+Brian G W Macedo;73;23,60
+Fernando W C França;30;26,40
+Davi T F Macedo;44;17,20
+Gabriel H M Vieira;23;16,00
+Brian F A de Souza;66;16,90
+André W C Vargas;50;20,50
+Davi H F Silva;72;23,80
+João S Q Silva;60;19,30
+Fernando N M Vieira;66;18,00
+Dalila H R Saldanha;55;20,30
+Dalila Q O Saldanha;24;25,10
+Dalila Y L de Souza;32;26,50
+Davi E K Badaró;26;28,50
+Daniel I P Silva;19;19,10
+Brian M Q Saldanha;20;22,00
+Gabriel H C Brandão;79;27,00
+Daniel J F Saldanha;69;28,70
+Rafael V J Badaró;17;22,50
+João K X Macedo;62;27,90
+Davi Q Q Macedo;29;18,80
+Davi Z T Saldanha;17;18,30
+Fernando M I França;68;17,20
+Brian U G de Souza;27;22,30
+Lucas S U Vargas;36;25,00
+André Z D França;60;15,40
+Fernando Q P Vieira;80;25,50
+Lucas C E Macedo;44;17,40
+Lucas C K de Araujo;41;19,30
+Willer D I Silva;62;15,60
+André F O Vargas;50;19,30
+João A B França;61;20,60
+Bruna E I Silva;27;21,00
+Rafael Y D Vargas;67;25,10
+Rafael D I França;66;22,00
+André V L da Rocha;59;26,20
+Daniel A K Macedo;64;16,00
+Willer A O Badaró;32;23,30
+Rafael Z Z Saldanha;26;19,60
+André A K de Araujo;65;26,60
+André Q X Brandão;21;16,40
+João H Y Badaró;22;22,30
+João H Y Saldanha;30;17,00
+Bruna R H Badaró;76;19,00
+André O K de Souza;21;24,80
+Lucas H R Silva;36;26,20
+Gabriel K E Vargas;27;25,70
+Willer E D da Rocha;20;25,30
+João M P Vieira;75;21,10
+Daniel G F Badaró;41;19,50
+Bruna S P Vieira;61;20,60
+Lucas M S Vargas;54;17,30
+Lucas G V Macedo;33;28,20
+Bruna U J da Rocha;79;28,30
+João H D Badaró;76;26,70
+Lucas T E França;64;27,50
+Gabriel V K de Souza;71;16,20
+Willer X I Badaró;27;22,30
+Rafael R Z de Araujo;22;24,90
+Rafael F B Brandão;28;17,90
+Davi O C de Souza;43;28,20
+Brian O I Vieira;48;18,90
+Gabriel Q O Macedo;23;28,60
+Lucas G N Saldanha;53;18,40
+Daniel U Q de Araujo;69;17,10
+Rafael T S de Souza;74;27,60
+Gabriel F K de Souza;55;22,00
+Daniel R T Brandão;21;21,00
+Rafael F A Vieira;71;25,90
+André Q N de Araujo;62;21,90
+Bruna X C Vieira;24;19,30
+Daniel B Y Vieira;76;26,10
+Brian L F de Araujo;27;16,00
+João B U Macedo;17;21,00
+Dalila C M França;39;21,50
+Fernando V Q Badaró;34;24,80
+João T E França;71;27,60
+Gabriel S X Vargas;39;25,00
+Willer Q B Macedo;33;23,30
+Fernando E O Macedo;47;20,70
+Bruna N W da Rocha;41;17,10
+Daniel H H Badaró;39;16,70
+Gabriel P S Vieira;60;20,40
+Davi R Z Silva;78;28,30
+Brian W F Saldanha;45;24,30
+Rafael X P Macedo;25;20,40
+Rafael I B da Rocha;20;25,70
+André K I de Souza;24;22,00
+Willer M O Badaró;63;25,50
+Daniel B D França;48;28,30
+Lucas B Y da Rocha;26;19,10
+Fernando T H França;37;27,30
+Rafael W B Macedo;35;27,10
+Lucas I F de Araujo;17;24,60
+Davi Q C de Araujo;60;25,80
+Gabriel V F de Souza;41;19,20
+João D A da Rocha;36;21,40
+Davi I M Vieira;42;17,90
+Davi O B Vieira;42;23,90
+Fernando E H Saldanha;32;21,10
+Willer L G Vargas;38;21,10
+Bruna F J Vieira;42;19,90
+Dalila J J de Araujo;21;22,40
+Bruna H X Saldanha;21;24,30
+Rafael N Q Macedo;20;28,60
+João F I Macedo;40;16,80
+Dalila J E Vargas;74;23,30
+Fernando E U da Rocha;68;26,70
+Lucas E K de Araujo;54;24,20
+Lucas P Q de Araujo;28;15,70
+Brian Z P Brandão;51;21,10
+Lucas U E Macedo;67;18,40
+Lucas S D França;35;15,70
+Gabriel J M Vargas;68;18,80
+André W A Saldanha;55;15,30
+André W P França;75;22,20
+Dalila C X Silva;67;18,10
+João E R Brandão;41;21,60
+Brian N H França;29;24,30
+Davi D P Silva;79;15,30
+Lucas C G Vargas;28;24,00
+Lucas W M Vargas;21;22,30
+Gabriel X B Macedo;72;16,30
+João T M de Araujo;63;28,10
+Gabriel U P Saldanha;34;28,00
+Daniel V V Vieira;19;15,30
+Rafael W O Saldanha;41;25,00
+Gabriel Z K Silva;78;27,20
+Willer G W Macedo;63;23,50
+João Y H Macedo;47;21,10
+Daniel F U Saldanha;70;27,50
+Rafael S D da Rocha;23;22,20
+Willer D F Vargas;54;19,60
+Dalila N X da Rocha;78;25,60
+Dalila J X Vargas;39;18,30
+André K G Vieira;45;18,30
+Daniel Q B Badaró;72;25,40
+João X U Brandão;42;27,50
+Willer H I Badaró;66;26,70
+Davi M I Silva;49;15,70
+Lucas X O Macedo;46;26,50
+Lucas W M Macedo;36;17,60
+Willer C U Saldanha;80;21,80
+Fernando Y J Saldanha;22;26,80
+Fernando E R Vargas;49;23,40
+Fernando V X França;24;17,80
+Rafael J W Vieira;69;26,20
+Willer E K Saldanha;18;21,60
+Rafael F U Badaró;47;22,80
+Rafael C Z de Souza;64;25,60
+Gabriel N R Badaró;25;21,10
+Fernando E K Vieira;78;18,70
+Rafael Y I Badaró;78;17,60
+Willer W D Macedo;54;20,70
+André E O Saldanha;20;26,80
+Rafael Z M Silva;75;21,90
+Daniel K U de Araujo;68;22,70
+André O B da Rocha;77;18,80
+Davi C E Brandão;78;25,20
+Lucas Y Y da Rocha;22;26,70
+Dalila C T Vieira;21;19,20
+Daniel A W Badaró;68;25,70
+Brian C A Saldanha;66;23,50
+Fernando G E Saldanha;75;16,70
+Bruna N T de Araujo;47;23,10
+Rafael E E Saldanha;49;17,90
+André G C Saldanha;40;27,90
+Fernando F W Macedo;29;15,10
+Davi R G de Souza;20;18,40
+Bruna D K Badaró;31;16,70
+Willer G Q de Araujo;68;24,80
+Dalila U H de Souza;60;27,80
+Rafael M W Vieira;17;22,20
+André T T de Araujo;60;19,00
+Davi R R Saldanha;39;21,40
+Lucas L H Saldanha;66;27,80
+Dalila K Y Macedo;45;19,80
+Bruna S B França;62;17,40
+Lucas L C Saldanha;72;16,50
+Brian B E Saldanha;39;24,00
+Davi N Q Saldanha;17;16,80
+João M Y da Rocha;71;24,50
+João C O de Araujo;30;21,20
+Dalila V D da Rocha;55;26,20
+Fernando I Z Vieira;69;16,80
+André K W Brandão;18;18,10
+Brian X V de Souza;18;26,60
+André H N Macedo;65;17,50
+Rafael E P Brandão;42;15,90
+Davi M U Brandão;24;17,80
+Daniel H U da Rocha;68;17,40
+André E M Vargas;78;25,70
+Dalila A C Badaró;67;24,00
+Gabriel I X Badaró;65;25,40
+Willer A V Macedo;18;28,60
+João H P Silva;20;28,90
+Fernando J T Macedo;75;22,30
+Rafael A D Brandão;72;24,70
+Willer U T Vieira;31;16,50
+Gabriel T K Badaró;66;27,80
+Brian H F da Rocha;20;22,80
+Brian Q H Macedo;29;19,90
+João S L França;53;16,60
+Rafael Q R de Souza;49;26,70
+João L T Vieira;29;21,30
+Davi U S Saldanha;38;17,20
+João N T Saldanha;77;20,00
+Dalila G G Vargas;29;23,00
+André Z X Vargas;24;20,90
+Lucas K N Vieira;25;27,80
+Lucas H Y de Araujo;53;24,00
+Dalila X L Badaró;17;23,10
+Dalila U T Brandão;42;24,60
+Brian C L Macedo;53;20,90
+Gabriel J L Saldanha;38;24,00
+Willer Q W Badaró;35;19,40
+Dalila M E de Souza;24;21,00
+Rafael W G Saldanha;72;18,70
+Lucas F M Vargas;57;25,80
+André F U Vargas;28;21,10
+Brian Z L Macedo;32;24,20
+Daniel L Y França;76;24,50
+João N S Vargas;42;16,10
+Davi V K Vieira;69;28,20
+Fernando V C de Araujo;33;15,60
+Bruna T Y Brandão;56;28,50
+Davi D N França;76;20,60
+Gabriel X N de Souza;50;19,60
+Gabriel S V Vieira;50;25,50
+Daniel U H Saldanha;20;28,00
+Gabriel K J Saldanha;75;19,70
+Davi O T Badaró;20;18,40
+Gabriel P A Macedo;44;23,30
+Bruna G L Saldanha;72;23,70
+André K Q Saldanha;26;15,60
+Gabriel W X da Rocha;80;25,10
+Fernando J Z Macedo;45;19,90
+Daniel I E de Araujo;42;24,20
+Willer P U Saldanha;80;17,60
+Rafael A I Brandão;32;25,10
+Daniel B W Vieira;76;15,40
+Dalila W F da Rocha;78;22,90
+Lucas G B da Rocha;22;19,40
+André A K da Rocha;37;22,40
+André E C Badaró;26;24,20
+Daniel D V França;36;20,20
+Davi K Z Silva;42;15,10
+Brian Z K Saldanha;79;20,00
+Dalila H O Vieira;77;28,60
+Gabriel I O Vargas;37;18,00
+Rafael P K de Araujo;36;15,90
+André E S Saldanha;29;18,90
+Daniel K K França;64;21,10
+Lucas J X Vieira;47;20,30
+Brian E S da Rocha;66;24,50
+Brian O D Macedo;42;19,90
+Daniel I I Badaró;37;16,00
+Brian H P da Rocha;75;21,80
+Fernando Q G de Souza;55;20,40
+André L Z Silva;46;17,50
+Davi S O Silva;20;24,90
+Daniel Q Q Saldanha;33;21,90
+Davi S Y de Araujo;53;16,10
+João O O de Araujo;65;17,50
+Fernando R G Saldanha;23;19,70
+Willer P O da Rocha;30;23,50
+Davi Z B Saldanha;54;18,90
+André N G França;75;16,00
+Dalila J W da Rocha;22;19,80
+Fernando J P de Araujo;40;20,40
+Daniel F L Brandão;28;21,80
+Davi H M Vieira;35;17,10
+Davi B A de Souza;72;21,10
+Daniel I S Brandão;46;21,90
+Davi I Z Vargas;23;24,90
+Rafael X C Saldanha;51;26,60
+André S N Macedo;19;23,50
+Fernando H N Vieira;39;25,60
+Lucas S T de Araujo;73;27,90
+Lucas I D Saldanha;67;25,90
+Dalila H X Vieira;25;22,20
+Daniel W W Saldanha;76;27,10
+João U T Badaró;42;20,60
+Dalila R F de Araujo;44;20,30
+Gabriel X U de Araujo;68;20,70
+Fernando E P Saldanha;55;25,00
+André N E França;70;21,20
+Rafael P Z Vargas;52;17,60
+Fernando W T França;60;22,80
+Fernando C M da Rocha;53;18,50
+André K U da Rocha;47;28,00
+Rafael A F Vargas;25;28,20
+Fernando H O Vargas;54;22,90
+Brian W N Saldanha;78;19,70
+João L Q Vargas;45;16,60
+Daniel P P Macedo;54;22,00
+Rafael J Q França;62;18,00
+Davi R E França;52;18,80
+Dalila L F Saldanha;70;23,20
+Dalila S G de Araujo;62;16,90
+Gabriel X U Badaró;28;26,00
+Gabriel C D da Rocha;33;18,40
+Rafael O M Brandão;66;21,50
+Bruna S X Vargas;56;15,50
+Willer Y E da Rocha;74;26,20
+Dalila T C de Souza;76;20,90
+Daniel W A de Araujo;63;20,50
+Davi X P Saldanha;22;16,70
+Bruna V T França;26;24,20
+Willer H W Vieira;51;15,90
+João E Q de Araujo;71;23,00
+André E D Silva;61;20,90
+João A E de Souza;17;18,70
+Gabriel M O Vieira;71;16,90
+Willer S W Badaró;76;24,20
+Brian I S Saldanha;58;15,30
+Daniel M N de Araujo;63;18,20
+Dalila D E Brandão;65;26,40
+Brian K H Vargas;73;25,00
+Fernando W T Brandão;36;25,60
+Bruna B W Saldanha;43;26,30
+Dalila F J de Araujo;41;26,40
+Lucas D J Badaró;62;22,80
+Davi P K Saldanha;65;15,80
+Fernando C R Vieira;37;21,30
+Gabriel Q I Silva;22;15,00
+Brian Y A Silva;70;27,00
+Daniel R S França;24;24,40
+Fernando P G da Rocha;23;28,40
+João E S Macedo;63;21,20
+Gabriel B E Vargas;63;18,20
+Willer I J Vieira;18;23,00
+Fernando R G Badaró;77;17,90
+Willer V Y de Araujo;41;16,20
+Davi I D Brandão;66;17,90
+Lucas X F Brandão;68;20,90
+Fernando Y Q Saldanha;18;24,70
+Brian H J Silva;52;28,00
+Gabriel Z S Macedo;30;21,70
+Dalila Y W França;70;26,10
+Fernando K U da Rocha;70;17,10
+Fernando B C Vargas;60;24,70
+Davi C O Vargas;59;16,00
+Lucas W H Macedo;48;25,10
+Davi Z X Vargas;37;17,20
+Dalila B N Brandão;71;18,20
+André A S Vieira;26;17,60
+Daniel X X França;40;21,50
+Willer G K Macedo;19;25,60
+Rafael A V Macedo;33;15,30
+Rafael B P Vieira;76;25,10
+Davi S R Badaró;76;22,30
+Rafael H N da Rocha;38;21,50
+Dalila U M Macedo;53;26,40
+Brian A E da Rocha;72;17,70
+Fernando U T França;18;26,60
+André C O de Araujo;54;15,50
+João R D Badaró;25;21,00
+Brian Y B Saldanha;68;26,40
+Lucas M G França;23;26,00
+João Z H da Rocha;68;17,50
+Brian L J de Souza;76;27,40
+André I B Macedo;37;16,70
+Lucas D Z Vieira;33;26,30
+João T F de Souza;26;27,80
+Willer L I Badaró;18;23,30
+Brian L Q de Araujo;40;17,80
+Lucas G G de Araujo;42;19,40
+Willer R S França;27;17,70
+Gabriel H J de Souza;33;24,30
+Brian R E Saldanha;57;18,40
+Dalila X L Silva;63;28,00
+Willer N C de Souza;48;19,90
+Gabriel I R Macedo;79;17,50
+Bruna G A Vieira;74;25,50
+Davi X W de Souza;17;25,80
+André V I Badaró;56;25,90
+Willer Z Q de Araujo;24;22,80
+Dalila E G Brandão;56;17,20
+André F H Saldanha;27;18,10
+Willer L G Saldanha;26;27,20
+André S R Vargas;40;18,00
+João F S de Araujo;52;22,90
+Dalila T H Vieira;23;23,70
+Daniel L U Macedo;45;21,40
+Willer B P Silva;22;28,80
+Davi D A de Araujo;47;21,50
+Gabriel W D França;76;26,00
+Willer Q D Vieira;57;17,50
+Rafael J H de Souza;49;25,60
+André P W Saldanha;60;27,50
+Willer G E Vieira;56;19,30
+Willer Z W Vargas;45;19,30
+Gabriel N U de Araujo;69;16,20
+Lucas X D de Araujo;20;18,60
+Brian Q H Vieira;62;18,00
+João Q U Silva;47;19,80
+Bruna N U de Souza;17;23,40
+Dalila Q Q Vieira;68;16,30
+Dalila Q W de Araujo;41;18,30
+João W D Badaró;21;22,30
+Bruna T K Saldanha;50;19,80
+Brian G W Vargas;74;20,00
+Gabriel S O de Souza;25;25,60
+Dalila N I Vieira;69;26,10
+Lucas P T Macedo;46;21,00
+Fernando D D de Araujo;73;23,90
+Daniel W N de Araujo;67;16,80
+João K A Badaró;75;21,80
+João V O Vieira;70;21,20
+Rafael E B Vieira;46;19,00
+Dalila Z E França;50;17,50
+Dalila X B Vieira;47;27,30
+Daniel Y R Saldanha;25;15,60
+Gabriel E I França;50;22,70
+Bruna C M de Araujo;43;16,70
+Dalila A C Macedo;51;18,30
+Rafael N Z Saldanha;73;21,60
+Gabriel M Z Silva;57;28,80
+Gabriel E U da Rocha;47;20,30
+João M X Badaró;18;26,20
+Daniel X X França;62;19,60
+Brian F Y de Araujo;65;18,60
+Brian H E Vargas;60;18,70
+Dalila S Z França;54;18,10
+Brian L G de Araujo;70;27,20
+Dalila L V Vieira;32;15,90
+Lucas O E Vieira;27;23,10
+Gabriel Z S Vieira;28;15,90
+Davi B N de Souza;73;26,00
+Lucas R H Macedo;55;21,90
+João Q H Vargas;68;19,60
+Lucas C N Vieira;32;21,50
+Lucas D B Vargas;34;16,80
+João E V Vieira;56;17,60
+Davi P I de Souza;41;22,70
+Rafael C O Brandão;26;22,10
+Fernando X J Vieira;40;16,40
+Gabriel Y T Vieira;25;26,60
+Daniel S K Macedo;79;23,20
+Daniel H D Silva;36;22,90
+Brian B A de Souza;19;26,80
+Dalila L A de Souza;28;25,90
+Lucas M W da Rocha;26;20,80
+Gabriel A U da Rocha;64;25,40
+Fernando G I Macedo;25;15,90
+João P V Vieira;18;25,10
+André Q Z Vieira;43;21,10
+Lucas D T Vieira;79;25,40
+João W W Badaró;54;15,10
+João B H da Rocha;58;15,40
+Gabriel U V França;26;26,60
+Gabriel T P França;79;22,60
+Dalila F O Macedo;24;28,80
+Bruna Y G Saldanha;52;26,60
+Davi Y E Brandão;63;20,60
+Dalila C O Saldanha;57;28,70
+Davi W X de Souza;78;15,50
+João W A de Souza;55;17,60
+Dalila Z C Badaró;55;20,90
+Daniel Z V de Souza;27;19,40
+André A S Vargas;69;27,90
+Rafael C X França;76;17,20
+Fernando A E Vargas;42;27,50
+Daniel Q W Macedo;42;25,90
+Bruna F X de Souza;23;17,80
+Gabriel V R Vieira;20;28,60
+André T P França;36;25,60
+André R R Saldanha;71;21,00
+Bruna Q J Vieira;78;26,80
+Brian G F Saldanha;19;24,40
+André R U de Souza;67;25,20
+Fernando B W Badaró;56;20,60
+Rafael N Q Badaró;46;25,10
+Lucas V L Brandão;50;22,80
+Brian G X Silva;35;28,70
+Bruna Y S Saldanha;48;16,90
+João D K Vargas;67;17,20
+André N E Saldanha;71;18,10
+Dalila X C Badaró;61;15,10
+Davi C M Badaró;60;27,30
+Willer L U Brandão;20;26,60
+Bruna F R Vargas;36;16,80
+Gabriel L D França;17;15,40
+Rafael J I Badaró;77;19,30
+Bruna P F Vieira;70;19,90
+Fernando T E de Araujo;26;16,00
+André L G Saldanha;57;24,20
+Davi P W Silva;43;21,10
+Fernando I U Saldanha;60;26,10
+Lucas H S de Araujo;43;26,60
+Lucas N A Saldanha;36;26,50
+Gabriel I S Saldanha;69;16,40
+Brian E P Macedo;61;21,40
+João R D Macedo;79;27,70
+Lucas G X Saldanha;67;21,40
+André L K Vargas;70;20,00
+André V B França;72;15,30
+André W G Saldanha;26;23,20
+João Y L de Souza;59;18,10
+Willer J I da Rocha;51;17,30
+João K C Macedo;32;27,70
+André P X Saldanha;18;26,30
+Daniel E J Saldanha;23;17,80
+Willer R W Macedo;41;15,80
+Rafael V A Brandão;69;15,90
+André Z R Silva;63;19,20
+Rafael N Z Saldanha;29;21,60
+Fernando G W Saldanha;62;20,30
+André V V Brandão;22;27,30
+André M P Silva;53;15,50
+Fernando O T Vargas;58;22,00
+Gabriel X L da Rocha;64;19,60
+Davi Z O Silva;45;17,40
+Davi B X Macedo;34;23,80
+Bruna M U de Araujo;56;25,70
+André Z Q Badaró;26;24,10
+Willer U P Vieira;68;19,80
+Rafael D W de Araujo;61;26,30
+Bruna C D Vieira;51;27,10
+Fernando N D de Souza;38;19,30
+Daniel Y G Saldanha;71;15,20
+Daniel Z P Macedo;75;27,30
+Dalila X A Saldanha;23;21,30
+Daniel L S Vieira;34;28,80
+Dalila U H Badaró;44;19,10
+Daniel E S Macedo;45;17,90
+Davi Y R Silva;69;25,90
+Rafael O E Brandão;47;23,50
+Willer D Y Macedo;42;27,70
+Brian B V de Souza;43;23,70
+João L Z de Araujo;79;20,30
+Fernando A C Vargas;48;22,40
+Gabriel C S de Souza;17;17,70
+Brian O B de Araujo;26;27,40
+Bruna M X França;26;24,60
+Dalila C X Macedo;76;28,90
+Dalila O M França;74;15,40
+João J I Brandão;33;26,50
+Dalila Q N Saldanha;53;18,40
+Daniel Q F da Rocha;67;24,10
+Bruna V G Badaró;32;20,30
+Dalila O D de Araujo;74;22,10
+Rafael O Z Vieira;45;15,90
+João E S de Souza;74;23,90
+Bruna Z X Badaró;43;27,30
+Rafael M I Vargas;22;16,30
+Davi L L França;56;27,40
+Gabriel F Q Vargas;44;20,80
+Brian D K de Araujo;53;20,90
+André T K Badaró;53;24,50
+Rafael U U Saldanha;73;28,90
+João N M Saldanha;72;26,90
+Rafael C M França;33;21,60
+Lucas E F de Araujo;39;24,20
+Willer D W de Souza;20;17,70
+André M G Vieira;26;18,00
+Davi O J França;25;21,10
+Fernando H N da Rocha;56;21,40
+Rafael I T Vargas;40;28,50
+Davi V Q Vargas;27;16,30
+Willer D M Vargas;79;20,60
+André O L Saldanha;67;15,10
+João G J Badaró;29;26,40
+Lucas E Z Macedo;78;22,10
+Bruna Q U Macedo;71;27,10
+Brian T I Saldanha;56;20,30
+Davi D O Silva;79;27,50
+Rafael A M Vargas;21;15,90
+Davi X Z da Rocha;70;27,00
+Rafael Z D de Araujo;53;16,20
+Brian H W Silva;39;18,30
+Dalila H R Macedo;78;15,70
+Bruna E D de Souza;69;28,30
+Gabriel A E Vargas;80;28,10
+André F O Saldanha;19;27,00
+Lucas T N de Souza;49;25,80
+Daniel M Y Macedo;72;22,50
+Willer B Q Saldanha;52;21,00
+Bruna N X Vieira;59;15,00
+Davi M C Brandão;24;23,80
+Lucas K P Badaró;21;25,50
+Daniel A I Vargas;64;24,90
+Lucas H O de Araujo;62;21,70
+Dalila U J Vieira;22;19,60
+Bruna V V Badaró;45;17,90
+Davi Q T de Souza;46;25,20
+André Y P Saldanha;72;22,60
+Rafael T W França;73;26,40
+Rafael A O Badaró;17;16,80
+Davi L U França;31;24,40
+André K U da Rocha;53;24,30
+Brian Z Z Macedo;64;19,60
+Willer V P Badaró;42;21,90
+Fernando E U Macedo;60;21,40
+Daniel A W Saldanha;47;17,20
+Bruna Z L Vargas;22;28,00
+Lucas H P Macedo;17;18,70
+Davi U D Brandão;46;26,30
+Bruna T W Silva;64;25,80
+Lucas K Y Vieira;42;16,60
+Rafael R O França;73;18,50
+Lucas L Q Badaró;77;21,70
+Lucas U A Silva;55;22,30
+Rafael N X Saldanha;44;18,00
+Fernando S Q Saldanha;59;21,00
+Davi S Z de Araujo;57;24,80
+Lucas Y U de Araujo;22;17,20
+André V Z da Rocha;54;25,90
+Davi X I Saldanha;51;25,20
+Lucas E F Saldanha;41;23,90
+Fernando O O Saldanha;49;16,40
+Dalila K M Saldanha;49;19,30
+Rafael U W Brandão;59;18,00
+André N O França;18;17,90
+Davi V N Macedo;41;28,30
+Brian S J Brandão;34;26,90
+André Y J Badaró;53;28,50
+Gabriel C Z Saldanha;77;18,20
+Lucas B E Silva;52;23,90
+Dalila D B França;33;27,00
+Gabriel B Z Badaró;71;25,20
+Brian D R Badaró;56;15,30
+Brian A Q França;70;15,40
+Willer A X Saldanha;33;17,20
+Dalila S H de Souza;26;22,30
+Dalila J W Vargas;68;23,50
+Davi H D Vargas;19;15,30
+Brian K A Brandão;28;20,90
+Brian Q Z de Souza;75;22,90
+Rafael T H de Souza;52;24,20
+João L Z Vieira;57;16,80
+Gabriel E N Vargas;69;26,80
+Davi A U Saldanha;37;18,30
+Gabriel F S da Rocha;51;22,90
+Brian R U Silva;28;27,30
+Bruna J G Badaró;59;27,20
+Lucas Y J França;24;28,40
+André K X Silva;31;24,10
+Bruna M T Badaró;33;26,90
+Willer O U Vieira;65;24,50
+Davi R K de Souza;29;28,10
+Fernando A P de Souza;21;18,90
+Rafael A M Saldanha;55;24,30
+Fernando A L Saldanha;39;24,80
+João V T Saldanha;76;21,70
+Rafael A D de Araujo;39;16,10
+João Q H Vargas;26;26,40
+Lucas L I de Araujo;56;19,40
+Fernando I M Saldanha;35;16,40
+Willer M T da Rocha;64;19,30
+André M L Saldanha;20;16,00
+Lucas J W de Araujo;37;21,10
+Rafael G W Saldanha;79;17,70
+Davi X U França;74;25,80
+Davi L A da Rocha;66;22,70
+Daniel I Z Saldanha;65;18,70
+Lucas M M de Souza;30;27,30
+Rafael A B Silva;32;17,00
+Willer Y N Saldanha;21;27,70
+André C Y Saldanha;19;24,30
+André M T Badaró;62;27,70
+Lucas P S Vargas;52;17,60
+Bruna H N Badaró;31;19,90
+Rafael C W Silva;52;17,10
+Lucas G G França;39;26,30
+Fernando D H Vargas;20;27,30
+Lucas J W Vargas;25;16,20
+João H T Saldanha;77;23,00
+Daniel W Z Saldanha;30;15,50
+João S Y Saldanha;49;19,70
+Dalila L Y França;33;26,00
+Gabriel X K Macedo;31;26,00
+Willer K G de Souza;64;28,80
+João M N Brandão;38;26,60
+Bruna P W Saldanha;49;27,30
+Lucas O S Saldanha;76;23,60
+André T F França;37;26,00
+Daniel V H Silva;58;18,30
+Lucas G N de Araujo;21;19,10
+Lucas J P Macedo;71;21,50
+Daniel H D França;21;19,20
+Daniel H P da Rocha;63;26,70
+André M J de Araujo;41;24,30
+Gabriel M T da Rocha;78;19,10
+João L A Macedo;32;20,50
+André Z X Silva;67;22,20
+Brian K S França;60;26,10
+Davi A O da Rocha;59;21,90
+Dalila F T França;38;28,30
+Dalila U S Saldanha;36;23,90
+Rafael J K Vieira;19;24,10
+Brian A L Saldanha;72;24,00
+Willer J N Saldanha;28;22,90
+João N F Silva;71;17,50
+Willer Z A Vieira;20;26,20
+Lucas D Y Badaró;58;25,60
+Daniel S K Badaró;61;19,20
+Daniel Q B Vargas;75;22,30
+André F V Macedo;49;16,30
+Daniel A T Macedo;41;19,60
+Rafael M B Saldanha;64;20,80
+Bruna S Z Saldanha;48;22,10
+João M O Silva;45;26,50
+Daniel G H da Rocha;39;15,80
+Davi N D de Souza;79;18,20
+Dalila N D Vargas;45;16,80
+Rafael A N Brandão;25;19,90
+Dalila U V da Rocha;67;20,10
+André Q P França;28;19,10
+André Z J Vargas;72;22,40
+Brian U T França;26;16,50
+João E I Silva;78;27,20
+Daniel P Z da Rocha;30;16,10
+Davi T A Silva;18;16,50
+João Q R Vieira;49;17,00
+Gabriel B S França;54;20,30
+Davi B V Macedo;61;26,30
+Rafael U H França;72;23,40
+Dalila J J Brandão;67;16,30
+Gabriel L T Vieira;55;26,70
+Lucas N Y de Araujo;22;21,50
+Gabriel K R Macedo;33;28,70
+Brian Z E Vieira;69;22,70
+Daniel L Z Saldanha;48;18,50
+Fernando V K Saldanha;64;21,30
+Fernando J N Saldanha;53;18,60
+Rafael R R Silva;58;25,30
+Willer M K Vieira;62;17,00
+Dalila I I Vieira;49;26,00
+André V K da Rocha;71;24,70
+João H F Silva;21;18,10
+Daniel S L da Rocha;69;25,90
+André X X Saldanha;52;24,60
+Willer C O Vieira;42;22,60
+Fernando W K Badaró;70;28,00
+Lucas O V Vieira;57;26,30
+Rafael H R da Rocha;50;15,10
+Lucas J X de Araujo;31;21,80
+Fernando Y W Vieira;63;24,00
+João T B Saldanha;20;18,80
+João Q D Macedo;66;26,30
+Daniel M D de Souza;51;27,30
+Gabriel L A Saldanha;24;18,30
+André Y Y Saldanha;54;18,00
+Bruna R H Macedo;72;22,80
+Gabriel S N da Rocha;55;18,20
+Gabriel R Y Silva;66;22,30
+João C V de Araujo;47;19,70
+Dalila X K Macedo;25;17,70
+João H V Macedo;48;19,10
+Gabriel O Q Saldanha;64;17,50
+Rafael K R Vieira;24;28,40
+Willer L H Badaró;57;26,40
+Fernando C N de Souza;46;15,20
+Rafael D F Vargas;53;18,20
+Lucas L P França;50;23,40
+Willer B G da Rocha;45;25,70
+Rafael X H Vieira;45;19,70
+João F Q Macedo;43;17,00
+João F A Vargas;57;19,90
+Lucas A Y de Araujo;18;27,00
+Fernando G B de Souza;72;18,10
+Bruna S M Macedo;72;18,20
+Brian X H da Rocha;17;16,00
+Willer E N Macedo;63;26,50
+Fernando Q V Badaró;29;16,00
+Davi M Q Vargas;23;27,10
+Rafael C M Saldanha;19;27,90
+Dalila B A Badaró;31;21,90
+Willer M R de Souza;51;26,90
+André C R Badaró;58;24,50
+Bruna J H França;22;21,50
+Gabriel R J de Araujo;25;27,60
+Gabriel U Y da Rocha;64;23,60
+Fernando R F Vieira;68;25,50
+Bruna W K Vargas;26;27,00
+Brian G C de Souza;36;28,00
+Dalila J U Badaró;23;20,50
+Daniel S N Silva;75;20,70
+Bruna N X Badaró;50;26,20
+Gabriel A P de Souza;39;25,10
+André V W Brandão;32;16,50
+Bruna Z Q Saldanha;73;15,80
+Bruna D X França;37;28,00
+Brian V C Vargas;58;23,90
+Bruna L N de Araujo;44;15,20
+André W W Badaró;36;26,80
+Gabriel I P Badaró;74;16,40
+João H U Vargas;48;27,60
+Gabriel N H Saldanha;65;27,70
+Davi A O Saldanha;42;21,60
+Daniel B U de Souza;52;25,50
+Lucas E U de Araujo;38;28,80
+Davi A M Silva;74;16,20
+Bruna Z T Vargas;52;20,80
+Dalila B R Saldanha;29;17,70
+Willer G C França;55;27,30
+Willer F J Saldanha;37;24,00
+André J Q de Araujo;70;25,70
+Rafael Z K Badaró;41;17,10
+Lucas G N Brandão;32;27,00
+João H E Badaró;34;21,00
+Willer O N Saldanha;62;19,80
+Fernando Q V Silva;21;19,00
+Lucas A T Badaró;65;27,40
+Gabriel T M Vieira;46;16,60
+Brian R Z Saldanha;76;16,10
+João G X Saldanha;40;18,90
+João O J Saldanha;30;19,10
+Lucas R X Badaró;24;25,40
+Daniel B O Vieira;69;28,70
+Rafael I N Vargas;70;24,60
+Daniel N U de Araujo;63;21,20
+Lucas T T Badaró;60;22,00
+Willer M L Saldanha;33;19,00
+Willer O W Vieira;40;27,00
+Fernando K K de Araujo;40;20,10
+Bruna E E Silva;23;25,10
+Brian S I Badaró;42;19,80
+Willer F X Saldanha;43;24,80
+Gabriel I U da Rocha;44;23,40
+João M P Macedo;18;21,70
+Fernando E I Saldanha;31;15,00
+Brian U W Saldanha;63;19,70
+Brian Q E Macedo;76;18,60
+André N W França;49;27,40
+Brian X B Silva;40;17,00
+Davi C V Macedo;61;22,70
+Bruna S H Saldanha;48;25,70
+João F V Brandão;46;16,40
+Daniel L E Brandão;59;21,50
+Bruna D P Saldanha;61;19,20
+Rafael V F de Souza;53;27,60
+André F K Vargas;80;20,70
+Rafael B W Vieira;26;21,50
+Dalila M E de Araujo;38;20,90
+Daniel R P Vieira;39;20,20
+Davi V H Vargas;53;28,40
+Dalila I M de Souza;68;25,70
+Lucas R A Silva;39;20,30
+Dalila Y L Silva;76;15,70
+Lucas F M Saldanha;76;22,60
+Lucas M L Macedo;17;18,60
+Gabriel A Y Badaró;57;23,50
+Gabriel E M Saldanha;46;26,60
+Gabriel O D França;22;19,50
+André Z W França;44;26,30
+João P G Brandão;58;24,10
+Lucas C O Saldanha;25;21,80
+Dalila B T da Rocha;58;17,70
+Davi R O Badaró;67;17,90
+Bruna T H Brandão;39;21,10
+Willer J X Brandão;24;22,60
+Daniel V F de Araujo;62;15,90
+Lucas O C da Rocha;47;17,30
+Daniel U H Silva;27;19,40
+João H I Vargas;19;27,80
+Dalila L P Vieira;63;18,60
+Willer Q Q Macedo;22;27,40
+Dalila G B França;38;17,20
+Lucas R N Saldanha;59;17,10
+Fernando K J Macedo;23;24,00
+Bruna N X Brandão;53;18,80
+João Z G Macedo;70;23,60
+Davi D V Silva;65;24,30
+Willer G Z França;52;15,40
+Daniel X P Saldanha;73;19,40
+Dalila R B Vieira;51;15,20
+Gabriel A A Silva;75;20,40
+Lucas R F da Rocha;28;18,20
+Daniel J L Brandão;72;26,50
+Fernando P L da Rocha;42;16,40
+Brian Z O Saldanha;30;15,10
+Brian S N Brandão;73;26,40
+Lucas O U da Rocha;65;19,20
+Davi W O de Araujo;31;17,50
+Rafael A J da Rocha;79;22,50
+Daniel M Y Silva;29;24,20
+Willer K M da Rocha;46;27,50
+Brian P N Badaró;44;28,40
+Willer K I Saldanha;77;28,60
+Davi Y R da Rocha;75;23,40
+João U U Vieira;76;26,20
+Lucas R P de Souza;17;21,10
+Willer H X Silva;31;15,40
+André O C França;54;28,20
+Brian T O França;63;23,20
+João F M Macedo;30;24,20
+Lucas E F Macedo;69;22,80
+Daniel Y D Macedo;51;15,60
+Lucas I R Saldanha;25;20,50
+João M H Silva;47;20,40
+João Z I Macedo;65;27,50
+Daniel C P de Souza;47;23,10
+Bruna X A Macedo;63;16,70
+João R R Macedo;42;21,90
+Rafael D B Silva;53;21,00
+Fernando P Z de Araujo;58;27,10
+Dalila Y Z França;44;17,60
+Lucas Q E Macedo;43;26,00
+Lucas X T Brandão;27;17,10
+Dalila C U Vieira;27;26,20
+Dalila S N Saldanha;40;26,50
+Gabriel D A Silva;34;19,90
+Gabriel S B Saldanha;49;19,80
+André Y K França;39;28,30
+Gabriel R R Macedo;65;19,90
+Lucas X F de Souza;76;28,50
+Dalila E U de Araujo;21;21,10
+Willer J I Silva;33;23,00
+Gabriel D M Vieira;26;27,10
+André Q S Vargas;42;25,90
+Davi J D Badaró;29;15,60
+André J O de Souza;18;15,90
+André E L Silva;71;19,50
+Brian I W de Souza;72;28,20
+Davi L I Vieira;31;23,30
+André F C da Rocha;32;25,40
+Willer Z D de Souza;31;16,80
+Lucas C A Vieira;72;22,40
+Rafael G Y Silva;44;27,10
+Lucas W N Vieira;38;21,80
+Willer I R da Rocha;48;28,30
+Rafael H I França;22;18,80
+Lucas U K Badaró;56;25,60
+João V N Saldanha;40;16,80
+Bruna J J Vargas;56;25,80
+Lucas F X da Rocha;25;21,20
+Daniel Z C Badaró;74;21,40
+André S I Vieira;69;19,00
+Davi L M Silva;66;19,30
+Bruna W S Vieira;44;21,80
+Bruna D Y Badaró;31;24,80
+Willer I V Saldanha;75;24,60
+Bruna J N França;20;24,20
+João G N Brandão;54;27,90
+Bruna I F França;58;28,00
+Gabriel E E Saldanha;69;27,30
+Fernando R P Silva;62;26,90
+Brian A C Macedo;66;22,00
+Brian M V Vargas;77;27,70
+Lucas M W Saldanha;55;17,40
+Davi I H Silva;68;16,90
+André H L Brandão;20;21,10
+Brian S B Silva;41;19,60
+Willer S H Saldanha;46;18,10
+Lucas X H Vargas;38;23,40
+João X K de Souza;62;23,50
+Brian I V Vieira;61;17,60
+Lucas E V de Araujo;29;21,40
+Davi E Q da Rocha;54;26,70
+Dalila S E de Araujo;78;18,20
+Daniel I F de Souza;61;16,60
+Lucas D M Silva;71;23,60
+Dalila Y C Badaró;62;20,10
+André H A Macedo;64;19,40
+Daniel R Y Brandão;51;20,40
+João U O Badaró;69;21,60
+Davi Q P Silva;72;17,80
+Bruna H K Silva;45;21,30
+André E Y de Araujo;41;17,30
+Dalila B O Vargas;78;15,60
+Gabriel I D Silva;47;27,90
+André I D de Araujo;41;20,70
+Gabriel A V de Araujo;38;23,10
+Davi S M Vargas;69;19,40
+João F B Saldanha;44;25,60
+Willer Z U Saldanha;63;15,20
+Fernando S V de Araujo;17;15,60
+Lucas P L França;79;27,20
+Fernando B F Silva;60;19,40
+Bruna U V da Rocha;47;27,50
+Brian I U Brandão;45;23,20
+Willer Y Q Macedo;34;26,20
+João K P França;63;16,10
+Dalila V M França;46;15,30
+Dalila P J Brandão;56;25,80
+Rafael V L Vieira;68;17,20
+Dalila E N Vieira;42;25,80
+André G D Vargas;72;22,70
+Dalila C M Vargas;33;17,20
+Rafael B S Silva;64;21,90
+Rafael D K Badaró;65;22,80
+Daniel A Z Macedo;63;15,00
+Daniel Y E Vargas;75;28,20
+Davi G K da Rocha;21;16,60
+André H C Badaró;40;26,40
+Daniel I B de Araujo;74;25,20
+Dalila Z W Badaró;40;23,90
+André P X França;70;18,70
+Rafael R S Saldanha;64;23,60
+Daniel U M Vargas;36;20,70
+Bruna J I Vieira;62;18,50
+Davi J A da Rocha;31;15,50
+Daniel H W Saldanha;48;27,70
+Daniel R Y França;18;21,30
+Fernando V H Silva;37;24,40
+João G G Badaró;21;24,80
+João Z N Saldanha;35;17,90
+Fernando B S Badaró;51;20,90
+João A H França;23;15,80
+Brian H D Silva;26;19,90
+Willer O S Vieira;23;26,80
+Lucas I N Macedo;51;26,10
+Bruna G P de Souza;36;23,90
+Dalila S G de Araujo;76;23,30
+Davi D H Silva;45;28,50
+Gabriel L T França;18;15,50
+André E R da Rocha;77;25,70
+Gabriel F Y Badaró;55;24,80
+André A T Macedo;62;16,00
+Davi G X França;73;27,10
+Lucas U U Saldanha;18;24,10
+Fernando G I Silva;45;19,00
+Brian H A de Araujo;63;26,20
+Fernando Y Y Vieira;65;27,30
+Rafael L H Badaró;31;24,90
+Fernando N I Vieira;18;17,70
+Brian M W França;62;28,90
+Lucas Z V Vargas;54;15,10
+Lucas N K de Araujo;71;16,00
+Bruna L E Saldanha;72;23,60
+André Z R Saldanha;64;19,20
+Gabriel I B França;45;24,20
+Fernando P Z França;70;28,00
+Bruna T D Brandão;77;19,40
+Davi P S Saldanha;80;22,20
+Brian E H Saldanha;41;18,80
+João G J Vargas;60;24,30
+Gabriel J E Brandão;68;28,10
+André B P Saldanha;20;19,00
+João F G Macedo;74;28,20
+João E Q de Souza;63;16,90
+Bruna Z V da Rocha;18;28,50
+Willer A X de Souza;59;17,30
+Bruna C K Vargas;42;17,20
+Daniel H L Vieira;43;22,00
+João L D Brandão;40;23,00
+Willer U N de Souza;66;21,10
+Fernando J V França;39;25,90
+Brian U X Vieira;37;18,70
+André N E da Rocha;36;18,60
+Rafael X X Saldanha;22;26,90
+Dalila B O Vargas;58;26,10
+Rafael D V Saldanha;23;22,30
+Davi C V Macedo;70;21,60
+Willer R C Vargas;21;16,80
+Gabriel L P Macedo;71;28,10
+Bruna L Z da Rocha;32;18,00
+Bruna B I Silva;42;28,10
+Daniel J E Macedo;75;20,60
+Fernando J X Macedo;56;21,10
+Davi M U Silva;34;18,50
+Willer W A de Souza;45;23,20
+Lucas P P Saldanha;54;23,20
+João Z G Brandão;44;16,80
+Daniel B I Silva;59;15,30
+Lucas H M Saldanha;69;28,40
+Fernando W Q da Rocha;37;17,40
+João W L Saldanha;65;16,50
+Rafael K Y França;75;27,30
+Lucas E F Silva;46;19,40
+Daniel Q V Macedo;19;17,50
+Gabriel M V de Souza;63;15,70
+Dalila P M Saldanha;49;22,80
+Lucas K W de Souza;21;26,10
+Brian J U Saldanha;64;20,50
+Brian N U da Rocha;30;25,10
+Brian S O Macedo;23;23,20
+Brian S Z Vieira;66;18,60
+Bruna A C de Souza;54;25,30
+Rafael F C da Rocha;42;25,40
+Rafael S U Saldanha;47;23,90
+Davi E A Vargas;30;28,50
+André R O de Araujo;69;15,80
+Gabriel N X Vargas;68;17,30
+Brian Z O da Rocha;19;16,60
+Daniel E S Saldanha;63;17,00
+Daniel W A Saldanha;74;22,90
+Daniel L Y Silva;45;21,80
+Davi J S Vieira;77;17,70
+Fernando M A da Rocha;67;27,20
+Dalila R W Macedo;18;17,60
+Brian I P de Araujo;40;23,50
+Brian C I Brandão;39;16,60
+Brian G R da Rocha;21;18,50
+Lucas G E Vieira;50;24,30
+João Q A França;80;18,60
+André K J de Souza;27;27,10
+Willer V C Brandão;42;25,40
+Rafael B E Vargas;70;22,10
+Rafael R J de Araujo;50;19,80
+Bruna F E Macedo;79;23,90
+Willer L X Badaró;70;23,90
+Gabriel U G Saldanha;54;22,00
+Willer K W de Souza;55;23,10
+Daniel T I de Souza;48;19,50
+Rafael W Z França;44;27,90
+Gabriel Y Y Silva;54;21,40
+Dalila C U da Rocha;26;15,70
+Rafael R C Badaró;68;28,70
+Rafael T X Saldanha;34;19,50
+Daniel E T Vieira;77;21,00
+Gabriel I E de Souza;60;20,50
+Brian V X de Souza;40;19,00
+Willer N S Brandão;63;20,80
+Bruna A L Saldanha;56;20,70
+Lucas B U Brandão;24;20,50
+Lucas K W de Souza;66;27,20
+Fernando N U Vargas;72;25,50
+Rafael A T Saldanha;68;28,50
+Dalila I Y de Araujo;74;16,90
+Lucas N Z Saldanha;78;17,10
+Rafael J P Brandão;78;22,40
+Gabriel P S Silva;22;24,70
+Bruna G A Saldanha;49;17,40
+Gabriel Y K Saldanha;76;21,10
+Lucas J X Macedo;24;27,30
+Willer V P de Souza;70;27,30
+Lucas L A Badaró;73;27,10
+Dalila S F de Souza;47;23,30
+Davi E N Saldanha;28;25,50
+Fernando T Y Vieira;42;27,50
+Fernando K D Brandão;78;23,60
+Lucas E O Vargas;50;28,00
+André S G Silva;80;16,00
+Brian H S Brandão;70;22,90
+Daniel O P França;27;25,50
+Willer L D Saldanha;49;18,40
+Brian R O Saldanha;66;22,30
+Dalila N Y Macedo;73;27,40
+Dalila S B França;39;17,60
+Brian I Z de Araujo;29;25,10
+Dalila N L da Rocha;73;25,50
+Bruna Q G Macedo;52;19,00
+Lucas X P Silva;65;22,00
+Dalila G R Silva;41;20,60
+Daniel B G Badaró;28;25,80
+Daniel E Y de Araujo;53;26,50
+Brian C B Brandão;62;26,70
+Rafael I L de Souza;73;25,80
+Bruna F Z Saldanha;52;23,20
+Brian Y I Vieira;63;15,30
+Rafael Q D Vargas;48;25,40
+André Y P Macedo;70;25,80
+Bruna O X Brandão;47;28,00
+Gabriel W K de Souza;75;18,30
+Willer J X de Araujo;27;20,60
+Bruna K A Vieira;55;20,70
+João R E Brandão;56;24,00
+Gabriel X W Silva;23;27,90
+Gabriel I M Saldanha;44;20,40
+João Y C Badaró;41;17,20
+Davi G F Silva;80;25,10
+Gabriel K U Brandão;60;21,40
+Fernando I F Macedo;31;18,60
+André R J Saldanha;41;24,80
+Davi A N Macedo;18;20,70
+Davi D J Macedo;61;15,80
+Gabriel O L Macedo;17;28,90
+Lucas I D Badaró;66;22,60
+Daniel G D Saldanha;26;25,70
+Daniel T L de Araujo;32;26,30
+Brian M V Vargas;26;25,50
+Gabriel Z E Brandão;34;24,70
+João X J de Araujo;51;20,70
+João K W Vieira;43;16,20
+Gabriel G B de Souza;73;23,90
+André I P França;48;28,50
+André B S Badaró;53;23,10
+Fernando U Y Vargas;76;15,80
+André A P da Rocha;21;23,00
+Lucas Q S França;47;15,30
+Brian N N Vargas;29;17,90
+Bruna G D Brandão;66;24,50
+João T X Saldanha;48;25,90
+Daniel G I Silva;75;23,60
+Fernando B U Saldanha;30;27,20
+Lucas S M Silva;48;16,80
+André I N de Souza;51;23,80
+Willer Q F Vargas;19;19,40
+Davi V V Vieira;34;23,50
+João T J Brandão;17;16,80
+Bruna E W Brandão;21;16,10
+Gabriel T A Badaró;20;17,20
+André M D França;79;26,70
+João A D Vargas;62;24,80
+Bruna C D Vargas;40;21,80
+Davi Y R França;68;26,00
+Lucas G L Saldanha;34;16,30
+André I I Badaró;21;20,10
+Davi D Q Brandão;80;20,50
+Davi O X da Rocha;75;24,40
+Brian B A Silva;35;21,80
+Bruna S C Silva;53;27,10
+Gabriel J Y da Rocha;63;21,90
+Brian G U de Souza;33;24,00
+Fernando M U Silva;20;28,90
+João N R Vieira;68;28,30
+Daniel M P da Rocha;60;24,50
+Bruna W L Badaró;25;21,10
+João S F de Souza;79;22,80
+Willer H V da Rocha;79;26,60
+Willer U E Vargas;74;26,60
+João G W Brandão;46;23,80
+Gabriel F A de Souza;39;19,30
+Fernando Y D França;66;21,50
+João M S Silva;19;17,50
+Fernando N O da Rocha;35;27,40
+Daniel N K Badaró;32;17,50
+Fernando T V França;68;24,20
+Fernando B E Badaró;39;22,00
+Brian A Y Saldanha;39;25,10
+Bruna I K Vargas;69;19,90
+Brian N W de Araujo;21;18,90
+Lucas K E de Araujo;17;22,30
+Dalila I J Saldanha;38;24,00
+Fernando Z R da Rocha;40;19,30
+Fernando W Z de Souza;20;16,40
+Davi U R de Souza;80;17,50
+André A B Macedo;42;22,90
+Lucas K O Vargas;22;21,10
+Daniel D V Vargas;78;23,20
+André N G Saldanha;35;16,70
+André G Y Macedo;40;22,80
+Rafael U X Brandão;43;16,60
+Bruna W Y de Souza;42;27,00
+Rafael Q F Saldanha;70;18,80
+Daniel V L de Souza;59;24,10
+Brian G P França;53;15,60
+Bruna E E de Araujo;54;16,00
+Brian W J Vieira;22;20,90
+Gabriel R N Badaró;40;18,20
+Daniel H Z Vieira;34;28,80
+Rafael I R França;73;28,80
+Dalila H E de Souza;44;20,10
+Lucas W L Vieira;65;19,30
+Bruna Q D de Araujo;79;18,60
+Lucas M R de Araujo;69;28,00
+Rafael U E da Rocha;18;27,90
+Bruna Y L Saldanha;74;15,30
+André L I Brandão;80;20,60
+Bruna D G Brandão;71;25,60
+Fernando O P de Souza;28;21,40
+Bruna T M Vargas;78;20,00
+João I R Saldanha;21;20,00
+Lucas L C Saldanha;51;28,60
+Bruna H V Saldanha;72;22,20
+André U X Badaró;17;27,30
+Lucas T O de Araujo;17;22,60
+Daniel V A Brandão;57;23,70
+Willer H P Vargas;58;16,10
+Daniel H X Vargas;49;26,30
+Daniel R X de Souza;73;17,90
+João Y P de Araujo;18;18,00
+André D I de Souza;62;19,80
+Willer D C Vieira;48;23,60
+Fernando O J Silva;28;15,20
+André C R Brandão;61;23,10
+João F V França;56;26,40
+Rafael Q M Vieira;72;19,70
+Davi N Y Brandão;27;24,10
+Dalila N W Vargas;78;25,30
+Daniel F V Saldanha;47;24,60
+Gabriel Z N Saldanha;61;21,60
+Willer V B Silva;46;26,10
+João X M Badaró;58;28,90
+Dalila J E Saldanha;79;20,90
+André N X de Souza;66;23,10
+Bruna Q T Brandão;52;27,10
+Gabriel Z E de Souza;48;25,30
+André T U de Araujo;61;21,90
+Dalila H A Silva;77;27,80
+Dalila Y Y França;24;21,90
+João B P de Araujo;28;19,30
+Daniel Z R Vargas;60;26,80
+Brian F P da Rocha;72;17,90
+Bruna Y D Vieira;52;18,70
+Bruna H P da Rocha;35;26,50
+Dalila N N Brandão;46;25,70
+André A Z Saldanha;17;28,30
+João S P de Souza;56;25,00
+Lucas G A Brandão;55;15,20
+Daniel C P Vieira;50;28,10
+Lucas A K Brandão;71;26,50
+Lucas D D da Rocha;47;15,40
+Lucas L T de Souza;26;28,80
+Lucas F I da Rocha;74;18,50
+Daniel G E Badaró;56;17,20
+Davi J P França;52;26,90
+João Y J Vargas;21;23,20
+João P A França;20;22,20
+Bruna Q A da Rocha;61;27,80
+Dalila L C Vieira;29;17,70
+Willer C C Badaró;50;23,90
+Dalila R I de Araujo;71;26,40
+João F Q Brandão;47;25,50
+Brian H T Vieira;62;21,00
+Brian M L Saldanha;74;20,40
+Fernando L O de Souza;66;28,60
+André U C Badaró;60;22,50
+André Q S Macedo;42;28,20
+Daniel R M da Rocha;44;18,10
+Daniel O E França;71;18,20
+João Z N Badaró;29;28,00
+Lucas H Z da Rocha;77;28,60
+Daniel I E da Rocha;68;26,70
+Fernando S F de Souza;64;27,10
+Gabriel L T de Araujo;17;19,90
+Brian M U França;33;20,90
+Rafael L W da Rocha;51;17,90
+Willer X E Badaró;32;17,20
+André P Z França;26;18,60
+Lucas B H Silva;76;19,60
+Rafael L M de Araujo;74;19,20
+Rafael K Z Macedo;28;21,60
+André C W Silva;21;23,90
+Fernando O I de Araujo;36;28,90
+André M W Brandão;17;21,70
+Willer L T Macedo;17;17,00
+Gabriel S Y Macedo;55;17,60
+Willer K I Saldanha;31;19,60
+Fernando O M Saldanha;59;18,40
+Lucas B X Brandão;30;20,30
+Rafael N U Brandão;49;20,30
+André C Y Brandão;33;24,30
+André N Y de Souza;31;27,80
+Rafael Q W de Araujo;56;27,70
+André M E da Rocha;33;23,90
+André Q B Vargas;71;16,30
+Lucas O R de Souza;78;18,80
+Lucas Q N de Araujo;52;15,50
+Dalila U O Silva;23;24,20
+Bruna K I Brandão;66;20,30
+Lucas A S Silva;70;20,20
+Daniel Y J da Rocha;50;17,00
+Rafael S D Silva;47;24,60
+Fernando U W de Souza;42;19,20
+Dalila B W Saldanha;19;24,60
+Fernando O O Saldanha;71;18,60
+Lucas V U Vieira;35;17,30
+Davi P V de Souza;56;16,90
+Brian W J Silva;30;15,10
+João L X de Araujo;71;28,20
+Fernando R A Silva;30;15,60
+Daniel R K Saldanha;37;28,20
+Willer Y R Brandão;46;27,50
+Dalila G P Macedo;64;20,00
+Dalila L O Badaró;67;16,00
+Daniel L D Macedo;72;16,10
+Daniel A H França;62;26,40
+Lucas U R Macedo;26;25,50
+Fernando T M Macedo;47;27,70
+Bruna E T Badaró;56;25,80
+João B L França;78;23,50
+Brian X T Badaró;49;27,10
+Rafael F S Macedo;17;23,60
+Bruna R A Silva;74;27,80
+André L T Saldanha;73;18,10
+Gabriel N T da Rocha;51;27,60
+Gabriel D B Vieira;41;22,60
+Lucas M Y de Souza;55;18,00
+Willer G S Silva;29;25,30
+Fernando R I Badaró;54;21,80
+André B C Brandão;63;23,30
+Willer V U Vargas;25;25,10
+Brian Q F de Souza;19;24,90
+Willer M X Silva;55;20,70
+Davi K X Saldanha;78;26,30
+Rafael H N Macedo;33;19,20
+Daniel B M Macedo;53;23,50
+Dalila X U Silva;51;23,50
+Fernando I W Saldanha;39;19,70
+João X U França;51;15,50
+Brian U E da Rocha;38;15,70
+João G Y França;38;23,40
+Dalila J M Brandão;76;18,30
+Gabriel N J Brandão;26;27,50
+Bruna V D Saldanha;40;23,00
+Davi D W Saldanha;27;15,00
+Gabriel I Z Saldanha;24;22,00
+João B H Badaró;58;26,50
+Dalila L Z Saldanha;34;24,60
+Gabriel Z Z de Souza;51;18,40
+Davi R F Saldanha;29;26,20
+Davi X B Macedo;34;25,20
+Gabriel Q Y Silva;63;19,50
+Gabriel N Q Vieira;18;15,40
+Gabriel R J de Araujo;79;19,80
+Rafael P R Vieira;54;16,10
+Fernando W P Saldanha;62;20,40
+André O N de Souza;33;19,80
+André H B Badaró;28;15,30
+Bruna O H de Souza;67;25,10
+Davi N K da Rocha;32;23,50
+Bruna N Q Badaró;33;23,80
+Lucas N X de Souza;30;19,20
+Fernando C C da Rocha;44;23,30
+Willer I A Vargas;60;16,50
+Fernando R L de Souza;35;26,10
+André C Q Silva;47;21,70
+João A H França;62;16,50
+Daniel W Y da Rocha;28;22,50
+Davi N L Saldanha;52;26,80
+Lucas M N Macedo;49;18,20
+Brian P X Brandão;23;24,60
+Davi X E Silva;62;18,60
+Daniel W Z Vargas;31;19,00
+Daniel R F Vieira;42;17,80
+Rafael W C Brandão;71;28,50
+Dalila Q H Badaró;66;15,00
+Gabriel K J Silva;17;19,50
+Dalila P B Saldanha;36;21,30
+Bruna U N Brandão;51;18,20
+Willer R F Silva;69;17,20
+Rafael K G da Rocha;43;27,90
+Gabriel G S de Souza;46;16,50
+Dalila M I Macedo;80;16,20
+Gabriel W O Vieira;60;17,10
+Lucas E A França;60;25,50
+João Z Q Vargas;63;26,30
+Bruna A H Silva;76;28,80
+Gabriel Y A Vargas;75;15,90
+Gabriel U P Badaró;60;16,60
+Davi M H de Araujo;21;16,40
+Bruna E W Brandão;65;17,80
+Gabriel V U Macedo;30;25,30
+André T B Silva;20;17,10
+Gabriel C P Badaró;56;27,70
+Fernando H V Saldanha;51;18,90
+André F A de Araujo;32;20,40
+Willer S E Macedo;25;23,90
+Dalila X J Vargas;45;19,90
+Rafael E O França;34;24,60
+Daniel G P Vargas;17;16,50
+Fernando I U de Souza;56;22,10
+Dalila D Y Macedo;76;27,00
+Dalila F E de Souza;38;16,30
+Willer T G de Souza;27;28,60
+Rafael S J de Souza;61;27,00
+Fernando G B de Souza;72;25,90
+Rafael O G Macedo;31;22,80
+Davi Y O Vargas;34;17,50
+Gabriel B O Silva;59;26,80
+Lucas B Y da Rocha;36;25,00
+Brian V L da Rocha;51;16,20
+Davi E I Vieira;77;16,30
+Lucas L D Saldanha;21;18,80
+Gabriel Y B da Rocha;19;27,20
+Fernando E P França;52;20,40
+Brian B J Silva;19;16,50
+Davi J N Silva;54;28,10
+Willer U W Badaró;25;27,00
+Willer A Q Badaró;72;26,00
+Fernando M T Brandão;49;23,80
+Dalila S Y Vieira;27;22,80
+Daniel D R Saldanha;36;21,30
+Lucas G L Saldanha;48;15,10
+Fernando S P Brandão;33;23,20
+Gabriel Z F de Araujo;55;16,70
+Dalila P B Vargas;78;15,10
+Rafael D V Silva;33;27,20
+Rafael V R Saldanha;70;22,30
+Gabriel O V França;52;20,20
+Dalila D E de Araujo;33;22,80
+Daniel J A Macedo;53;21,80
+Fernando G L Macedo;61;16,70
+Rafael C W Silva;55;24,10
+Gabriel Y S Saldanha;74;26,10
+Bruna G C da Rocha;41;24,70
+Dalila K O Saldanha;29;17,90
+Willer H U Brandão;59;18,30
+João L X Silva;43;25,10
+André Z C Badaró;33;23,40
+Davi W C Brandão;24;15,40
+Rafael R T de Araujo;30;15,60
+Willer H G Brandão;42;28,00
+Dalila G C de Souza;33;16,10
+Willer M R Silva;65;21,90
+Rafael V R de Souza;50;28,40
+João Q Q Vieira;63;26,80
+Bruna L G Saldanha;51;15,10
+Daniel H A Silva;42;23,00
+Dalila C B Macedo;30;23,10
+Daniel C G da Rocha;52;25,50
+Bruna Z O Macedo;30;23,60
+Davi J J Macedo;54;22,30
+Willer F M França;58;15,90
+Davi S X Saldanha;54;15,40
+Lucas L S Vieira;30;25,60
+Davi A A de Araujo;68;25,30
+Dalila W B da Rocha;19;25,30
+Brian B L França;33;25,80
+Bruna N J Saldanha;43;25,20
+Fernando N Q Vargas;32;21,20
+Fernando M Y Saldanha;62;19,60
+Fernando L H Vieira;56;26,70
+Gabriel P B Vieira;29;26,90
+André F H Silva;27;17,90
+Dalila L I de Araujo;36;28,20
+Rafael S P Vieira;29;17,50
+Gabriel T Q Saldanha;26;18,70
+Rafael F O de Souza;67;19,10
+Fernando Q V França;44;23,60
+Lucas I N de Souza;22;28,00
+André T R Silva;80;17,90
+Lucas Z F Saldanha;70;15,50
+Dalila F Y Brandão;69;25,80
+Rafael A F Saldanha;27;21,70
+Daniel I Q da Rocha;67;25,20
+João A H da Rocha;23;28,30
+Fernando N G de Araujo;61;17,40
+Davi J F Silva;51;21,30
+Daniel U W Brandão;76;16,80
+Gabriel N J Silva;29;16,00
+Rafael M W Saldanha;58;22,00
+Lucas W P Badaró;49;26,50
+Brian E T de Araujo;70;16,60
+Lucas Y N de Souza;61;24,00
+Dalila D R da Rocha;67;16,70
+Davi L J Badaró;56;15,70
+Daniel R D Macedo;40;21,30
+Davi T A de Souza;58;25,30
+Brian R N de Souza;64;16,70
+Lucas Z V França;75;19,30
+João B B Badaró;55;21,70
+Rafael K R da Rocha;66;16,60
+Daniel W F de Souza;18;25,20
+Davi K K Badaró;43;20,50
+Brian A M Vieira;69;23,60
+Lucas O X de Araujo;48;22,30
+Daniel O R Badaró;66;15,50
+Davi A R Brandão;75;22,10
+André K K Badaró;63;27,00
+André V G Vargas;38;18,60
+Lucas S M de Souza;66;15,00
+Davi Q N Badaró;52;18,20
+Rafael W N Silva;56;16,70
+Fernando P V de Araujo;60;19,30
+Brian W W de Araujo;26;24,60
+Bruna J L Badaró;49;16,30
+Rafael P U Vargas;55;26,30
+Gabriel N G de Araujo;39;19,20
+Daniel M G Vargas;19;20,20
+João R O da Rocha;49;20,40
+André N O Vieira;65;18,90
+Daniel H E Badaró;65;27,70
+Gabriel J H França;49;28,00
+João F V Badaró;56;26,70
+Willer D E Vieira;61;22,20
+Willer A A Saldanha;72;24,90
+Daniel J O Macedo;74;17,20
+Bruna J E Macedo;17;28,50
+Davi W C da Rocha;27;16,90
+João J A Vieira;26;23,70
+Brian F G da Rocha;18;28,00
+Dalila X R Saldanha;37;22,90
+Brian S T França;56;23,70
+Brian Y L de Souza;26;25,60
+Willer K V de Araujo;31;24,80
+André Q C de Souza;59;21,40
+Lucas Z F de Souza;45;19,50
+Dalila T H Vieira;71;21,50
+Willer I P Vargas;68;22,70
+Dalila S T de Souza;59;23,90
+Bruna O H Vieira;35;15,60
+Gabriel F X Brandão;29;23,50
+Davi M S Saldanha;44;28,00
+Fernando G B Badaró;63;17,00
+João O G Vieira;48;21,90
+Gabriel S P de Souza;19;20,30
+Gabriel F E França;22;23,10
+André Q M de Souza;79;25,40
+Fernando C O Macedo;64;22,20
+Fernando T P Badaró;68;15,30
+Willer U J Saldanha;62;16,00
+André Y W de Souza;44;15,30
+Willer W Z Brandão;49;17,40
+Brian I O Saldanha;61;27,20
+Rafael M G Macedo;61;22,20
+Fernando N G Vargas;42;15,40
+Gabriel C N Vieira;50;21,70
+Fernando N V Silva;75;21,70
+Bruna K Q Vargas;22;15,30
+Fernando U D de Araujo;38;20,60
+Bruna U G de Araujo;32;22,00
+Dalila G C de Araujo;37;17,90
+Lucas Q I Macedo;34;20,90
+João T A Silva;65;26,40
+Lucas D K de Araujo;57;20,30
+Dalila Y Q Saldanha;39;17,70
+Lucas B P de Souza;44;28,10
+Daniel F F Vargas;55;19,50
+Daniel W J Macedo;72;18,30
+João T N de Souza;76;24,30
+Lucas Q O da Rocha;51;27,80
+Dalila P B de Souza;49;22,60
+Gabriel T N da Rocha;55;23,30
+João H E Badaró;18;24,60
+Bruna T V Saldanha;70;15,30
+Davi W U Vargas;22;18,20
+Gabriel A N Silva;72;24,30
+Daniel J R de Souza;46;23,70
+Lucas U S de Araujo;19;16,40
+Bruna R H Vieira;37;17,50
+Willer P D Badaró;35;26,00
+Willer Z X da Rocha;80;23,20
+André D S Vieira;56;19,00
+Brian W K da Rocha;35;15,20
+João F W França;58;28,60
+Gabriel W R Brandão;24;18,80
+Rafael S B Badaró;68;19,90
+Gabriel Q P Vargas;34;17,70
+Rafael T M de Araujo;46;20,00
+Bruna I T da Rocha;32;18,90
+Lucas R P França;41;18,80
+Bruna N T Saldanha;54;27,60
+Dalila L H Badaró;70;17,80
+Rafael J P da Rocha;53;24,80
+Rafael D D Silva;17;15,10
+Daniel K T de Souza;60;19,80
+Bruna V P Badaró;55;20,40
+Brian Q W Silva;78;28,00
+Brian Z H Macedo;79;19,40
+Fernando J I Saldanha;39;24,40
+Davi D C Saldanha;60;27,10
+Rafael Q X Silva;40;19,00
+Lucas N L da Rocha;56;28,20
+Rafael P D Vieira;21;19,60
+Dalila I S Brandão;39;21,50
+Davi S A Silva;44;26,00
+João D N Badaró;24;21,40
+Rafael M M Vargas;30;28,70
+Brian B U de Araujo;56;18,90
+Davi W Y Saldanha;29;25,00
+Rafael O X da Rocha;38;24,20
+Daniel A V Saldanha;64;26,30
+Fernando E T de Souza;63;20,50
+Dalila J U Vieira;23;18,40
+Fernando C J Brandão;69;18,90
+Davi K Z Brandão;76;26,50
+Rafael W X da Rocha;33;27,50
+Lucas X L Vargas;40;26,80
+João D A Saldanha;41;19,80
+Willer E J Vargas;52;16,10
+Fernando L K Badaró;23;25,40
+Rafael S U França;41;26,20
+Lucas Y D Brandão;66;16,90
+João F Z de Araujo;67;16,30
+Dalila P D Badaró;23;23,70
+André J H Brandão;32;22,20
+Brian V A Silva;50;28,50
+Davi W O Vieira;41;25,30
+Lucas J J Brandão;26;24,80
+Rafael M R Brandão;38;25,20
+Daniel R Z Vieira;57;17,00
+Daniel V A Vieira;71;28,70
+Lucas J R Vargas;78;19,60
+Rafael Q G Saldanha;39;18,00
+João B B de Araujo;47;23,20
+Bruna I P de Araujo;34;21,90
+André N G da Rocha;66;18,70
+Bruna R Y Brandão;35;17,10
+Dalila P M Vargas;35;18,20
+Dalila R A França;48;15,00
+João Q K Vieira;28;18,80
+Gabriel F Q França;21;19,30
+Brian K H Vieira;59;18,60
+Rafael F Z Vargas;47;27,10
+Rafael E T da Rocha;30;28,40
+Fernando J I França;26;25,90
+Brian Z S de Araujo;27;19,60
+André T R Badaró;19;28,00
+Rafael T T Macedo;51;24,20
+André Y C Saldanha;56;28,90
+Rafael P V de Araujo;70;27,40
+Rafael S Q França;47;21,80
+Brian E S Vieira;21;15,80
+Gabriel Q E Silva;49;20,40
+André B D Silva;34;15,80
+Dalila R X Silva;58;18,80
+Willer A V Saldanha;28;18,10
+André S E Saldanha;58;17,50
+Lucas T P de Souza;18;15,80
+Lucas U G Badaró;36;28,30
+Dalila I W Vieira;46;18,00
+Davi I H de Araujo;27;23,90
+Daniel K U Saldanha;32;25,70
+João S Y Silva;21;17,70
+Daniel J Y Saldanha;18;25,80
+Rafael V O França;31;15,70
+João R Q Badaró;45;23,40
+André M O Saldanha;55;17,10
+Brian I D de Souza;63;17,30
+Willer D M de Souza;33;26,50
+Davi I J Brandão;33;15,50
+Rafael R V Saldanha;42;15,10
+Rafael B C de Araujo;33;18,20
+André Q M de Souza;25;16,40
+Gabriel W H Badaró;50;16,50
+Rafael S X Brandão;25;22,50
+Daniel O P da Rocha;55;21,80
+Brian G A Vieira;75;21,20
+Brian Y V de Araujo;30;18,90
+Lucas K D Silva;50;27,50
+Rafael G J Brandão;42;24,10
+Rafael B B Macedo;77;23,10
+Fernando U I de Araujo;59;27,80
+Gabriel M C Brandão;33;28,40
+Willer R P Silva;51;21,20
+Daniel L L Saldanha;28;18,90
+Daniel K V Brandão;78;15,30
+Willer T C Badaró;22;19,80
+Gabriel T R Badaró;55;17,10
+Davi T X Macedo;37;17,10
+João C Z Vargas;34;17,20
+Fernando U Y Macedo;54;17,90
+João V S Vargas;65;18,60
+Willer T Y Saldanha;56;22,20
+André K R Badaró;64;20,40
+Lucas F S da Rocha;30;18,50
+Bruna S U Macedo;20;17,50
+Fernando V K de Araujo;65;28,40
+Willer G C de Souza;40;18,60
+Lucas G Q Macedo;19;27,20
+Gabriel I S Saldanha;25;16,10
+Gabriel N R da Rocha;60;26,00
+Gabriel Y I Vieira;75;15,70
+Daniel Y E de Souza;66;18,80
+Davi U O Vieira;56;27,90
+Gabriel X Y Silva;55;26,50
+Davi T F Vieira;71;18,60
+Gabriel H Y Brandão;73;18,00
+Rafael N U Vieira;25;23,70
+Willer V B França;25;25,60
+Daniel M A França;29;22,10
+Bruna W N Saldanha;32;21,50
+Davi J R da Rocha;44;24,30
+Rafael D G Saldanha;79;27,20
+Willer I B Saldanha;52;20,90
+Brian M C Silva;27;24,10
+Davi E S Saldanha;80;27,80
+Dalila B V de Souza;47;24,80
+Willer J E Saldanha;33;24,10
+André B S França;56;26,50
+Gabriel I X Macedo;61;22,90
+Bruna R U Vieira;74;28,80
+Davi T C da Rocha;42;21,50
+André T E Vieira;67;18,00
+Gabriel I E Vieira;41;22,60
+Bruna S S Brandão;55;20,60
+André W U da Rocha;69;21,80
+Gabriel N M Macedo;61;16,70
+Lucas X W França;72;22,70
+Dalila F F Silva;61;28,70
+Willer H O Brandão;21;23,70
+Daniel S Y França;24;16,00
+Daniel H N de Araujo;57;23,70
+Lucas W Y de Araujo;26;17,80
+Fernando E E Vieira;71;17,30
+Bruna F H da Rocha;20;23,50
+João A O Silva;63;26,80
+Rafael V C de Araujo;50;21,80
+André R V Saldanha;66;23,20
+Bruna X M Saldanha;57;23,60
+João W Z Brandão;43;27,60
+Daniel I K Macedo;43;23,50
+Bruna T C de Souza;63;20,70
+Daniel W T Badaró;52;20,00
+Brian W Q Brandão;17;22,30
+Bruna O G Brandão;31;26,40
+Bruna C B Brandão;67;18,20
+Davi R P Macedo;76;26,60
+Brian C G França;54;24,90
+Davi P F Brandão;77;22,80
+João G Q Saldanha;34;17,50
+Bruna X O Vieira;59;19,80
+Lucas W R Badaró;56;25,00
+Daniel F G Saldanha;37;19,40
+Brian Q N Saldanha;42;21,20
+Lucas K A Saldanha;39;15,70
+Dalila X A Vargas;65;22,90
+Daniel D Z de Araujo;40;26,50
+Fernando E J Brandão;58;18,90
+Bruna L E Saldanha;35;20,50
+João X C Vieira;40;27,90
+Davi O E Silva;66;22,90
+Willer C J Macedo;29;20,70
+Daniel Y X de Araujo;31;24,70
+Lucas T J Saldanha;46;23,30
+Gabriel F T Silva;45;15,00
+Brian X R Silva;30;22,40
+Bruna X I Saldanha;40;21,20
+João I F de Souza;74;26,70
+Davi A Z Vargas;26;22,10
+Brian W O Vieira;58;24,60
+Fernando R P Brandão;21;15,20
+Gabriel K W Badaró;48;25,50
+Dalila W Q Silva;18;20,90
+Dalila Y J Silva;69;16,90
+Dalila M U Macedo;21;26,80
+Brian H N Badaró;23;25,60
+Lucas Y C Saldanha;75;18,00
+Brian K C Vargas;43;16,40
+Dalila H N Saldanha;39;16,60
+João Y T Vieira;31;22,50
+André C I Saldanha;75;23,00
+João A H Vieira;72;21,60
+Davi H Y Silva;55;27,10
+Willer T Z da Rocha;69;28,80
+Willer R C Badaró;42;27,00
+André F P Vieira;61;24,30
+João H I Macedo;78;17,00
+Lucas S F França;45;25,00
+Lucas Z F França;31;18,80
+Dalila W H Macedo;63;17,40
+Fernando A J Vieira;56;16,30
+André J J Macedo;79;23,90
+Daniel O O da Rocha;30;20,70
+Bruna D C Saldanha;47;20,90
+João E K de Souza;34;16,40
+Gabriel X Y Saldanha;44;27,50
+Bruna R W Vieira;72;23,60
+Davi B I França;25;19,60
+Lucas Y J Saldanha;43;23,60
+Davi D B Silva;38;26,90
+Lucas P S Macedo;33;23,50
+André U C Brandão;80;25,00
+Davi P M de Araujo;40;22,20
+Brian K Q Silva;59;26,00
+João K M Vieira;51;21,60
+Fernando W X da Rocha;18;20,20
+Willer H L Badaró;64;22,90
+Brian N N Saldanha;64;19,90
+Dalila F U Saldanha;29;17,40
+Dalila X D de Souza;40;21,80
+Bruna Y O Vieira;51;25,10
+Daniel X D Brandão;23;28,50
+Daniel C I Vieira;51;27,00
+Bruna Y F de Araujo;26;22,20
+Willer I M Badaró;39;24,30
+Daniel Z R Brandão;68;17,10
+Dalila Y Y da Rocha;54;25,40
+André D C Badaró;44;17,30
+Rafael F I Saldanha;60;21,80
+Davi O Q Macedo;33;24,70
+João Y B da Rocha;17;19,30
+Daniel D K Macedo;31;16,30
+Willer I V da Rocha;73;22,40
+Lucas M X França;24;20,30
+Bruna H G França;58;16,00
+Lucas C T França;54;15,10
+Rafael L O Saldanha;53;15,10
+Dalila C F de Souza;62;15,50
+Willer X O de Souza;75;23,40
+Bruna I Z da Rocha;66;18,80
+Davi K Y de Souza;44;25,60
+Fernando Z P de Souza;63;24,90
+Bruna I Q Macedo;27;20,60
+Fernando C V Vargas;56;20,10
+Willer R C de Souza;29;15,20
+Lucas L W de Souza;77;24,90
+Davi F L da Rocha;79;25,70
+Davi G M França;79;27,60
+Lucas N B Saldanha;31;22,90
+Gabriel A D Brandão;46;18,60
+Daniel A Z de Araujo;19;27,40
+Davi E R Badaró;41;20,00
+Davi D Z Vieira;44;21,20
+Fernando L Q Brandão;18;23,50
+Gabriel K I Macedo;69;25,80
+Fernando T H Saldanha;74;21,30
+Gabriel M W Vargas;68;18,90
+Davi N L Badaró;48;19,40
+Fernando H N Saldanha;44;19,10
+Brian L S Silva;29;24,40
+Lucas S P Vieira;61;18,00
+Willer V E França;54;27,30
+Brian M E Badaró;17;17,00
+Brian J Q de Souza;42;24,00
+Bruna K U Silva;54;17,40
+Fernando Y N da Rocha;47;28,00
+João P Y Vargas;18;20,30
+Brian M L Badaró;46;21,50
+Fernando E Y Badaró;34;19,20
+Davi L V de Araujo;38;26,70
+João Z E Vieira;74;19,00
+Daniel L E Macedo;36;25,50
+Rafael H D Saldanha;36;22,40
+Davi M B Badaró;27;19,00
+Daniel S F Badaró;32;28,40
+Davi Z V de Souza;52;24,10
+Gabriel E W Saldanha;57;26,40
+Dalila A R de Souza;41;20,20
+André Y T Macedo;48;22,20
+Gabriel C P de Araujo;76;24,70
+Daniel G B Saldanha;70;22,30
+Lucas Y X Saldanha;17;22,90
+Brian F U Badaró;30;23,30
+Gabriel I L França;40;21,30
+Rafael I M Macedo;31;22,60
+Davi X J de Araujo;39;21,30
+André N B França;35;24,40
+Dalila Y V Badaró;24;28,70
+Gabriel Z S Vargas;28;18,30
+João Z K de Araujo;34;18,50
+Davi W N de Araujo;72;21,80
+Davi L R Vieira;17;27,30
+Lucas E Y Brandão;28;28,80
+Brian X Y Saldanha;17;19,80
+Gabriel M N de Souza;27;21,60
+Dalila M H Saldanha;21;20,80
+Bruna D M Silva;69;26,10
+João G F Brandão;22;20,90
+Gabriel G C Silva;19;23,50
+Bruna X M da Rocha;52;23,80
+André A G Badaró;36;21,40
+Brian W U Saldanha;22;20,50
+Davi L P de Araujo;38;28,80
+André P B de Souza;56;17,90
+Lucas X R França;60;23,90
+Dalila Y R Vieira;64;18,90
+Daniel D L Saldanha;18;27,30
+Gabriel K D França;64;15,80
+Bruna F S Brandão;54;18,00
+Fernando P B de Souza;78;24,10
+Lucas B P França;37;19,80
+André U V da Rocha;50;17,30
+Davi C X França;57;16,10
+João I R Vargas;54;25,60
+João B N de Araujo;51;23,10
+João V U da Rocha;19;16,00
+Gabriel K P de Araujo;25;18,20
+Davi C L Badaró;29;20,50
+Rafael L L França;49;22,80
+Brian X T de Souza;45;26,30
+Bruna P U Badaró;49;22,70
+Lucas C F Saldanha;71;28,00
+André E F Saldanha;55;28,00
+André T U Saldanha;52;28,30
+Fernando K M Saldanha;31;21,90
+Brian D D de Araujo;77;15,60
+João N R Saldanha;54;17,40
+Gabriel M K de Souza;73;18,60
+Gabriel L K Badaró;36;18,60
+Lucas N T Vargas;41;21,40
+Rafael B I França;33;20,70
+Brian N A Vieira;38;17,40
+Dalila Y W Vargas;27;24,10
+Lucas O A França;72;15,90
+André Z S Macedo;73;22,00
+Bruna K D de Araujo;50;28,90
+Willer C K Brandão;38;20,00
+Fernando X V Vieira;32;27,70
+André T V da Rocha;18;25,00
+Lucas E W Brandão;32;20,80
+Daniel N R Brandão;60;26,80
+Davi P V Saldanha;19;24,80
+André L S da Rocha;38;17,60
+Dalila N U Brandão;44;25,60
+Daniel U T de Souza;44;20,90
+Rafael L F Brandão;24;17,30
+André X D Saldanha;73;20,90
+Willer R J Silva;19;19,20
+Davi V F França;58;23,00
+João L E Saldanha;24;25,30
+Rafael F V Vieira;50;26,90
+André L E Brandão;32;28,30
+Lucas C A Silva;22;25,10
+Brian H H Silva;47;27,20
+Daniel X F Saldanha;49;23,30
+Brian A I Vieira;62;25,20
+Davi I H Vieira;77;16,10
+Bruna K C Badaró;66;15,10
+Daniel S X Saldanha;19;17,40
+André V N França;31;19,00
+Dalila X Z Vargas;21;24,90
+André K P Badaró;30;20,00
+Rafael B E de Souza;37;22,10
+Rafael F O de Araujo;42;25,90
+André Y H Saldanha;54;28,00
+Gabriel M G de Souza;66;22,40
+André N A da Rocha;55;21,80
+André O K Saldanha;46;28,20
+Fernando Q C Saldanha;52;20,50
+Lucas S E Saldanha;64;27,70
+João G O Saldanha;24;21,40
+Gabriel D L de Souza;70;23,20
+André I Y Badaró;31;24,70
+Brian K U Saldanha;30;27,10
+Bruna C M Vieira;31;27,70
+Rafael H Z Brandão;54;25,20
+Brian W D Brandão;32;28,90
+Gabriel U C Silva;27;28,00
+Bruna J S de Souza;29;22,90
+Fernando U G França;20;18,20
+Fernando Z O Saldanha;28;21,00
+Davi B C de Araujo;31;15,00
+Willer H F Saldanha;34;15,70
+Willer M Y Macedo;30;15,90
+Lucas Q Y Silva;27;16,00
+Dalila F L Silva;55;19,10
+Willer W P Brandão;58;15,00
+Brian U C Vargas;76;26,40
+Willer C P Macedo;58;24,50
+Willer Y J de Souza;62;22,10
+Lucas I B França;77;20,70
+Gabriel G G de Souza;30;17,40
+Willer N U da Rocha;53;23,10
+André B T Vieira;30;20,30
+Dalila L L Vieira;38;26,10
+João C H Vieira;76;19,60
+Willer M A Silva;52;25,10
+Willer L E de Souza;44;27,60
+Brian O H Saldanha;80;25,90
+André T T Saldanha;53;15,00
+Fernando A Y França;54;27,00
+Bruna U L da Rocha;59;22,70
+Bruna N W Macedo;38;24,70
+Brian I K da Rocha;42;28,30
+Lucas D E Brandão;60;18,50
+Daniel E H Vieira;79;28,70
+Lucas H R Saldanha;79;22,90
+Rafael Z Q Macedo;47;17,30
+Daniel B W Vargas;65;24,50
+João E S de Araujo;33;20,70
+Dalila H Q Brandão;79;28,10
+Daniel G P Brandão;25;25,20
+João K P Badaró;45;19,50
+João H Q Badaró;46;23,40
+Willer Z L da Rocha;26;20,30
+Rafael S G Saldanha;53;19,70
+Bruna N U Saldanha;40;21,10
+Brian D R França;40;18,30
+Dalila B U França;49;22,40
+Daniel A L Silva;68;15,50
+João R D Vargas;32;27,90
+Bruna G C da Rocha;54;15,80
+André Q X França;26;28,80
+Daniel C N de Souza;20;23,40
+Daniel B Y Badaró;27;28,30
+Daniel C B Macedo;55;22,60
+Rafael O Z Saldanha;79;18,70
+Brian C P da Rocha;25;21,70
+Gabriel V J Badaró;71;16,90
+Davi V L França;39;23,50
+Davi T V de Araujo;57;28,50
+André Z A da Rocha;41;22,20
+Daniel M X de Souza;20;26,80
+João U T Saldanha;56;27,60
+Bruna J Q de Souza;32;26,10
+Dalila C B Silva;33;27,00
+Willer I B da Rocha;28;25,00
+Willer F L Silva;60;26,20
+Gabriel T Y Vieira;41;15,00
+Willer J B Badaró;75;19,80
+Lucas H A de Araujo;17;27,80
+Lucas L B de Souza;54;28,50
+Brian D M Macedo;46;17,40
+Dalila F F da Rocha;46;18,00
+João R U Brandão;77;27,10
+Lucas H F França;49;19,20
+Daniel Z H da Rocha;53;19,40
+Rafael F M Vargas;71;15,80
+João A M de Araujo;18;24,30
+Bruna A H Vieira;18;25,10
+Willer A M Badaró;32;15,40
+Lucas M D Vieira;43;25,00
+Fernando Y N da Rocha;78;19,60
+André P W da Rocha;23;17,90
+André J O Saldanha;59;24,70
+Daniel F P França;50;28,10
+Fernando Z Q Saldanha;42;21,50
+Bruna A A de Araujo;76;25,70
+João K A de Souza;66;28,30
+Rafael L T Vieira;67;25,80
+Rafael A V Silva;32;19,60
+Bruna X U Badaró;40;25,80
+Bruna G E Macedo;64;23,60
+Gabriel Z K Saldanha;17;27,60
+João J R Saldanha;76;15,00
+Gabriel Z N de Araujo;31;19,10
+Gabriel B Q Silva;55;21,20
+Fernando X V Brandão;67;22,90
+Brian P W Brandão;70;27,00
+André A T da Rocha;37;23,00
+Daniel K G Macedo;56;24,00
+Bruna S Q Saldanha;18;19,20
+Fernando S I da Rocha;34;16,50
+André W I Saldanha;60;26,50
+Bruna M E Brandão;24;20,90
+Rafael I A Brandão;50;25,00
+João I N Vargas;59;25,50
+Daniel M H da Rocha;72;21,90
+Brian U N Saldanha;79;21,30
+Davi T O Brandão;37;26,20
+Davi X O Saldanha;32;19,80
+Davi T T Vieira;79;17,20
+Rafael G X Vieira;36;16,00
+Willer Y W de Araujo;59;17,10
+Dalila P V Saldanha;57;25,60
+Bruna V Z Saldanha;68;16,00
+Rafael C X Badaró;23;17,70
+Gabriel T B de Souza;49;15,50
+Bruna P Y Silva;26;24,60
+Brian A P Vargas;73;19,20
+André K C Badaró;52;22,80
+Davi A S Macedo;43;15,60
+Daniel F L Vieira;38;21,90
+Bruna I P Silva;29;28,40
+Fernando S Y Macedo;36;15,60
+Willer U Z Vargas;45;28,40
+Fernando R M Macedo;49;26,70
+Brian J V de Souza;48;28,00
+Brian M J Macedo;51;17,60
+Fernando I K Macedo;35;18,30
+Bruna C T Silva;48;28,90
+Lucas R K de Souza;23;15,00
+Willer G T de Souza;29;22,80
+Lucas M Y de Souza;63;21,00
+Gabriel A K França;21;22,20
+André L W Vargas;32;24,30
+Bruna O X Silva;46;23,00
+Brian A Z Macedo;36;17,80
+André K A de Souza;61;22,30
+Davi Q J Brandão;21;21,10
+Fernando E W de Souza;64;23,80
+Fernando D J Saldanha;21;17,50
+André L J França;27;16,10
+Davi K Q Badaró;18;25,80
+Daniel S B Saldanha;56;22,50
+Lucas X C Saldanha;18;15,80
+Bruna O O da Rocha;58;26,10
+Rafael H F Silva;25;22,50
+Willer F X Vieira;39;26,80
+Brian P I Brandão;71;19,30
+Davi C O Silva;20;27,80
+André E D Saldanha;80;16,90
+Fernando J P de Souza;62;21,90
+Dalila Y R Badaró;72;24,40
+Daniel B B Saldanha;64;26,30
+Fernando O M de Souza;21;20,90
+Lucas T L Saldanha;54;23,40
+Daniel W I Badaró;75;17,90
+Lucas Z I Brandão;29;19,40
+João Q T Macedo;31;24,90
+Willer X F Badaró;71;17,40
+Willer S F Silva;56;28,70
+Lucas A T da Rocha;38;17,80
+Willer N Q Saldanha;80;16,10
+Bruna F V França;78;17,60
+João S G Brandão;62;25,00
+Davi O B Vieira;48;23,30
+Rafael S M Vargas;35;19,40
+Daniel Z C Saldanha;69;26,30
+Davi O N de Souza;73;19,00
+Lucas K T da Rocha;70;25,80
+Gabriel B S de Araujo;36;28,20
+Willer B H Macedo;25;25,10
+Gabriel M O de Souza;21;23,80
+Daniel Q Y de Souza;28;28,10
+Willer Y V Brandão;57;17,30
+João W A de Araujo;64;26,20
+Gabriel W D Saldanha;61;19,70
+Rafael Q X de Araujo;27;28,50
+Bruna O F de Araujo;72;18,20
+André T Y Vargas;38;18,40
+Fernando G V de Araujo;28;20,90
+Gabriel B Q Silva;80;19,70
+Gabriel Q S Saldanha;25;15,90
+João J E de Araujo;40;27,90
+Daniel X J Badaró;64;16,40
+Bruna Y D Brandão;77;21,80
+Bruna A A França;80;26,20
+Davi F Q Macedo;66;23,60
+Brian M B da Rocha;66;26,80
+Dalila H J Saldanha;71;28,10
+Fernando C R Badaró;54;27,50
+André E V Silva;80;28,50
+Daniel O Z Macedo;36;25,80
+André M T Saldanha;69;23,50
+André D W França;51;27,20
+Lucas R F França;22;26,10
+Gabriel A Z Vargas;43;23,80
+Rafael E W Saldanha;21;24,60
+Dalila O Q Silva;76;15,20
+Rafael F J Vargas;78;25,00
+Gabriel H M Macedo;33;18,50
+Davi F I Badaró;68;20,50
+Daniel C E de Souza;31;16,70
+Rafael N D Saldanha;63;15,30
+Brian Z T Vieira;65;15,70
+João T S Vieira;22;15,90
+Lucas D D Vieira;26;15,20
+Willer W P de Souza;38;22,70
+Daniel T D de Araujo;68;17,80
+Davi U F Vieira;31;16,70
+Rafael B C da Rocha;18;24,30
+João V E Macedo;72;23,00
+Davi Y M de Araujo;61;21,30
+Daniel H E Vargas;20;24,90
+Lucas J Y Saldanha;37;28,80
+Fernando M F de Souza;25;25,80
+André A N Macedo;41;28,10
+João S H de Souza;25;21,50
+Brian Z C de Araujo;36;24,30
+Brian H T França;64;28,70
+Lucas D U Badaró;78;20,10
+João P D da Rocha;31;26,70
+Gabriel V J Vargas;31;24,50
+Willer U V de Araujo;30;28,80
+Brian F X Saldanha;68;23,50
+Davi K B Saldanha;48;22,70
+André F X Macedo;76;24,60
+Brian B A Silva;37;22,40
+Brian J Q França;27;20,80
+Rafael K Q de Araujo;60;28,40
+Lucas L M França;33;15,20
+Rafael W X Macedo;75;18,40
+Fernando P Y Badaró;70;16,60
+Lucas E W de Souza;43;27,00
+Bruna R Q de Araujo;55;27,90
+Bruna D T Vieira;27;20,70
+Gabriel S N Saldanha;31;17,10
+André Y A França;24;16,50
+Dalila H H de Araujo;25;28,60
+Gabriel Z B Silva;32;19,30
+Willer O B Vieira;30;18,40
+Davi Q E Macedo;75;19,90
+João G T Badaró;40;20,10
+Daniel V U da Rocha;20;27,40
+Rafael E L Badaró;32;23,20
+Dalila R U da Rocha;27;23,20
+André Z T Saldanha;53;26,90
+Brian W V Vargas;37;22,10
+Fernando B T Brandão;50;19,30
+Bruna T K de Souza;74;23,70
+Willer X N Saldanha;35;27,40
+João G I França;79;25,70
+Gabriel C B Saldanha;53;25,20
+André U G Saldanha;25;23,40
+Dalila X P Brandão;80;25,60
+Bruna M K Macedo;38;21,90
+André F Y de Araujo;29;27,20
+Dalila T N de Souza;49;21,90
+Davi V J de Souza;69;19,40
+Brian B S França;25;22,70
+Dalila U A Saldanha;18;25,80
+Lucas B E França;40;22,10
+Brian Z M Vargas;68;25,90
+Rafael M W Saldanha;17;24,50
+André M F Badaró;77;24,50
+Willer T V de Araujo;47;15,70
+Bruna U R de Araujo;67;22,80
+Willer M E Silva;29;17,40
+Rafael V L Brandão;18;26,10
+Dalila V D Brandão;55;20,40
+João X I Saldanha;66;20,90
+Fernando Q A França;53;26,60
+Fernando R G Vargas;62;23,30
+João C W Brandão;80;24,30
+Lucas I A da Rocha;17;26,70
+Bruna R R Macedo;63;18,70
+André G G de Souza;36;21,00
+Davi R K de Souza;52;28,20
+Davi L G Vargas;31;27,30
+Daniel X G Saldanha;21;15,50
+Daniel F V Silva;76;24,10
+Lucas Q F Saldanha;70;15,40
+Brian B C da Rocha;45;16,50
+Gabriel U Y Macedo;54;24,80
+Brian H H Vieira;60;19,40
+Daniel I K Vieira;64;20,50
+Gabriel M P Macedo;42;25,20
+Gabriel B Q de Souza;39;18,90
+Daniel D S Saldanha;35;26,80
+Daniel A D Saldanha;26;16,70
+Bruna D R Macedo;80;25,70
+Bruna A N Vieira;43;20,90
+Davi L G Vargas;17;26,40
+Gabriel F M Badaró;54;20,20
+João M X de Souza;22;20,10
+Willer P Y Macedo;66;20,00
+Lucas L O Badaró;28;23,50
+Daniel L X Brandão;67;26,30
+Fernando R D de Araujo;52;16,10
+André T A da Rocha;59;16,20
+Rafael N A Brandão;67;24,00
+Fernando G F França;71;17,40
+Gabriel W I Vargas;54;19,90
+Davi Z X Macedo;75;24,50
+Davi D B de Araujo;62;22,20
+Brian J R Brandão;73;17,70
+Lucas Q T de Souza;45;26,10
+Daniel P P Macedo;33;18,80
+Willer V O Vargas;24;17,20
+Davi C K Vieira;36;21,30
+André O N Brandão;28;23,10
+Dalila R T Badaró;72;23,60
+Rafael I I de Souza;53;22,20
+Rafael J C Vieira;72;21,10
+Fernando G P França;72;27,00
+Dalila H I de Araujo;18;27,60
+André Y P Saldanha;49;15,60
+Dalila U J Vieira;43;20,30
+Dalila B H Brandão;31;19,60
+Willer H R Saldanha;17;20,30
+Lucas Y V Saldanha;28;19,90
+Davi A H Macedo;75;25,00
+Brian M J Vargas;21;25,20
+Dalila N Q Saldanha;40;19,90
+Fernando E S da Rocha;78;26,90
+Gabriel P K França;17;28,40
+Brian W K Saldanha;30;15,80
+Daniel O X Vargas;67;27,50
+Dalila J F da Rocha;55;18,80
+Dalila D Y Macedo;18;27,40
+Fernando K T de Souza;77;28,60
+Bruna A E de Souza;28;27,80
+Fernando Q T Vieira;39;20,30
+André X E da Rocha;44;21,80
+Rafael V F Vargas;73;25,50
+Dalila O J Badaró;73;22,80
+Dalila N Q da Rocha;26;25,70
+André E Z de Souza;47;18,20
+Willer W Y Silva;40;17,80
+Davi O A Badaró;35;25,90
+Willer E K Badaró;28;28,20
+Davi I K Saldanha;52;20,00
+Willer P Y Silva;46;23,80
+Davi G X França;42;23,80
+Bruna J S Silva;24;21,50
+Lucas S A Brandão;24;25,40
+Gabriel E E de Araujo;28;18,80
+Fernando V V França;53;25,90
+Bruna S X Badaró;67;17,60
+Bruna W N Vieira;37;21,60
+Gabriel Q V de Souza;59;24,60
+Rafael K D França;43;28,60
+Daniel E W Silva;36;21,90
+Lucas M X Saldanha;28;22,10
+Gabriel I U Vargas;50;16,20
+Fernando N X Badaró;53;26,50
+Willer L C Badaró;58;24,40
+Fernando X D Vargas;74;28,00
+Rafael L W Vieira;66;25,70
+Willer P V de Souza;26;22,70
+Willer D O Silva;55;15,90
+Bruna M P de Souza;71;16,90
+Bruna K U Brandão;18;19,40
+Davi H O de Souza;34;19,20
+Willer H W Badaró;21;28,20
+André X I Vargas;49;21,80
+Gabriel Z K Saldanha;40;19,00
+Dalila M B França;67;25,20
+Dalila A W de Souza;40;15,60
+Dalila D M Silva;73;21,80
+André J Z França;63;18,10
+André T U Silva;51;26,30
+Bruna M J Saldanha;53;27,30
+Fernando O F Vieira;36;28,60
+Fernando Y T Silva;25;23,70
+Daniel S P Macedo;80;22,40
+Dalila C V de Souza;21;20,80
+Brian Z R Vieira;59;24,90
+Brian C J Vieira;23;24,00
+André Y U Saldanha;36;19,80
+Davi Y R da Rocha;76;24,80
+Fernando N Y de Souza;38;15,60
+Lucas B X de Souza;37;22,40
+Willer J L de Araujo;64;18,50
+Daniel Z R de Souza;67;27,50
+Daniel F E Saldanha;80;16,70
+André E Q de Souza;77;25,10
+Lucas A H Vieira;78;20,80
+Gabriel X T Saldanha;64;18,60
+Bruna A D da Rocha;62;23,90
+Brian T C França;64;21,90
+Bruna V R Saldanha;33;24,80
+Fernando Q O Macedo;21;26,40
+Gabriel L H Saldanha;67;25,50
+Willer S D Saldanha;75;28,90
+João U J Silva;76;15,40
+André L Y Badaró;63;23,50
+Dalila H U de Souza;58;18,40
+Rafael M X Saldanha;75;21,30
+Willer U J Brandão;27;24,60
+Willer K F Brandão;75;18,50
+Fernando J Z Saldanha;77;20,00
+André C D Vargas;61;26,40
+Davi K Q Badaró;58;20,10
+Brian S X Silva;20;15,30
+Bruna F E de Souza;23;19,10
+João V V França;41;18,50
+João O X Vieira;39;15,60
+Davi W T Vieira;37;24,60
+André I Z de Souza;46;19,90
+Lucas R Q França;52;22,80
+Gabriel X N de Souza;72;24,50
+Davi N L Macedo;39;24,40
+Dalila X V Brandão;35;28,10
+Brian V Y Saldanha;23;25,70
+Fernando I H de Araujo;72;25,60
+Davi P I de Araujo;27;17,40
+Willer C C Vieira;65;21,20
+João Y O de Souza;24;15,10
+Gabriel Y I da Rocha;50;19,90
+Brian C B Silva;62;15,90
+Willer N R Saldanha;53;22,90
+Lucas M U Vargas;47;15,50
+João G V Silva;52;18,40
+Fernando B A Brandão;72;17,60
+Daniel J J Brandão;34;22,70
+Brian C A Badaró;43;24,00
+Brian W J Brandão;69;23,00
+Daniel M Z Brandão;68;16,90
+Rafael L T Macedo;65;28,10
+Daniel C R de Araujo;28;15,50
+João E P Vargas;75;22,10
+André L R Macedo;52;19,60
+João G V da Rocha;58;18,30
+Fernando R A Saldanha;33;16,20
+Davi G M Macedo;50;25,50
+Lucas X H Silva;17;25,80
+Dalila K Y França;36;23,00
+João N K Brandão;19;15,50
+Willer W M Macedo;19;15,90
+André L F de Souza;49;17,60
+Fernando K J Vargas;76;24,10
+Willer E B Saldanha;60;26,60
+Lucas L P Saldanha;62;18,10
+Gabriel B G Badaró;50;24,60
+Gabriel E Y França;59;25,50
+Rafael E S Silva;31;26,30
+Daniel I B Brandão;61;17,00
+João V J Silva;23;20,30
+André J R de Araujo;18;15,90
+Lucas Z L Macedo;59;19,70
+João Q Y Brandão;18;20,10
+Gabriel F K França;76;16,60
+Daniel L D Saldanha;39;26,10
+Willer S W Badaró;56;25,20
+Bruna E W Vieira;40;21,80
+Rafael Z R Vargas;63;20,50
+André N R de Souza;75;25,40
+Daniel O D Vieira;64;20,40
+André R V França;76;15,90
+André R O de Souza;57;22,60
+Davi K N Vieira;50;24,80
+Rafael V F Silva;31;22,70
+André X O Badaró;63;26,90
+Dalila Z X Saldanha;47;19,70
+André A X Saldanha;68;27,80
+Fernando J K de Souza;58;17,60
+João U U Saldanha;38;27,80
+Rafael S R Silva;70;21,50
+Fernando F E Brandão;68;18,90
+Willer F W Silva;51;19,00
+Davi G N França;80;17,70
+Daniel Z N Macedo;43;19,80
+Brian E A Silva;37;19,00
+Brian K Y de Souza;59;22,90
+Gabriel J O Saldanha;21;27,90
+Rafael V U Brandão;61;17,40
+Daniel K I Brandão;35;16,30
+Rafael C L Saldanha;40;25,00
+Dalila R V Vieira;67;22,10
+João Y D França;42;24,50
+Bruna I A Saldanha;19;18,20
+Gabriel Y R da Rocha;42;25,10
+André F S da Rocha;33;23,90
+Lucas Y Z França;39;25,60
+Rafael Q N Brandão;64;21,60
+Rafael D P de Souza;79;23,20
+Brian M A França;31;22,90
+Willer G H Silva;38;22,90
+Dalila V C Saldanha;36;28,20
+Gabriel P Q de Araujo;78;27,80
+Bruna P A Silva;80;16,90
+Rafael N S Macedo;66;20,10
+Dalila S W Vargas;73;20,70
+Fernando N T Brandão;20;19,00
+Fernando T Y Silva;80;23,30
+André D V Brandão;67;15,90
+André S O Saldanha;58;23,30
+André Q L da Rocha;45;17,80
+André C T Vargas;55;16,20
+Brian S W Vargas;56;21,80
+João D I da Rocha;42;27,20
+Lucas L D de Araujo;68;15,30
+Fernando O U Vieira;76;26,40
+Daniel N Z de Araujo;54;15,70
+Bruna L X Brandão;25;18,10
+Bruna Q Z Saldanha;18;25,60
+Lucas S A Saldanha;51;27,30
+Willer K F de Araujo;18;16,80
+Brian B Z da Rocha;67;21,40
+André E H França;65;28,90
+Brian L X de Araujo;33;20,40
+Rafael H F Saldanha;63;21,20
+Brian Y Q Saldanha;38;19,70
+Dalila P A de Araujo;40;24,70
+Davi U B Vargas;35;23,40
+Fernando M M de Araujo;63;20,90
+Rafael R P Brandão;19;28,50
+Lucas X W Silva;54;27,20
+Rafael H D de Araujo;34;22,90
+Brian P M Brandão;36;15,90
+Lucas U M Badaró;55;25,60
+Daniel Q Y de Araujo;38;21,10
+Daniel Y T Silva;62;26,50
+Dalila J E Badaró;51;15,80
+Daniel T S Vargas;42;23,50
+João H D Brandão;77;17,90
+Daniel C R Badaró;23;23,10
+Rafael B Y Badaró;63;16,30
+João Z B de Souza;57;20,30
+Rafael D S Brandão;65;18,40
+Willer K D Badaró;70;20,30
+Gabriel T E de Souza;36;15,60
+Brian A F Vargas;59;15,20
+Brian U A Brandão;48;17,00
+André E R Badaró;67;17,60
+André T I Badaró;37;19,40
+Willer Q U de Souza;49;19,50
+João D U Badaró;60;27,10
+Dalila E W Macedo;26;28,90
+Lucas E E de Araujo;68;17,10
+João F F de Araujo;17;26,10
+João M Q de Araujo;73;23,70
+Rafael N B de Araujo;36;27,10
+João I V França;58;25,20
+André H L Badaró;17;26,20
+André A G da Rocha;48;21,50
+João U Z Vargas;75;16,50
+Davi U U Saldanha;34;22,60
+Fernando Y D Silva;18;22,70
+Davi U K Brandão;24;25,60
+Davi H R Saldanha;53;16,80
+Fernando M H de Araujo;60;22,40
+Gabriel M O da Rocha;60;20,50
+Willer B Z França;77;17,50
+Rafael Z G Saldanha;34;20,70
+Lucas M Q Silva;24;18,10
+Bruna H W Vieira;36;23,50
+Rafael D M Macedo;19;26,40
+Gabriel W B Vieira;22;20,30
+Rafael E L Saldanha;55;26,00
+Brian P G França;56;16,80
+João A N Saldanha;18;23,60
+João W G da Rocha;80;17,20
+Fernando J G Brandão;77;27,70
+Bruna B I de Araujo;79;16,40
+Brian U B Saldanha;76;20,30
+João Z R Badaró;75;18,90
+Daniel D V de Souza;67;17,90
+Willer J S Badaró;35;20,10
+Fernando V N de Araujo;41;18,70
+Brian A B Badaró;79;25,00
+Brian W J Saldanha;54;25,30
+André A M Badaró;58;15,30
+Brian W L Vargas;40;15,40
+João D K Brandão;66;28,90
+André R L Saldanha;61;16,00
+Davi M P de Souza;30;25,40
+Daniel I M Brandão;65;25,90
+João Q V Brandão;42;25,00
+André M B Silva;36;21,20
+André W P de Araujo;75;25,90
+Rafael Q L Badaró;68;21,00
+Lucas L Z Silva;76;28,20
+Rafael W I Saldanha;32;28,00
+Willer C Q Saldanha;62;19,60
+Rafael V F Saldanha;36;25,40
+Davi J T Brandão;24;24,00
+Brian W L Vieira;76;18,90
+Dalila C G da Rocha;59;26,80
+Lucas T J da Rocha;28;19,90
+Fernando A R Saldanha;61;17,60
+Rafael F Z Macedo;52;22,40
+Dalila D I Brandão;65;17,40
+Rafael X T Vieira;68;21,80
+André A I Silva;38;15,60
+Rafael P J da Rocha;40;21,30
+Daniel L F Brandão;19;27,70
+André H H Brandão;23;15,70
+Davi H H Vieira;36;27,10
+Daniel E H Macedo;26;23,30
+Bruna Z Q Badaró;27;24,80
+André O G França;68;27,50
+Daniel O A Silva;75;25,60
+Bruna T Z Macedo;61;26,30
+Lucas Z Y Silva;69;28,70
+Fernando T J de Souza;65;15,30
+Willer V J Vargas;48;15,60
+Bruna A C Macedo;38;25,90
+Daniel K N Badaró;62;15,90
+Brian L E Saldanha;55;23,80
+Brian Z I Vargas;41;22,50
+Gabriel N H Saldanha;45;22,70
+Lucas K P França;50;27,30
+João L B Vargas;70;24,80
+Gabriel V R Saldanha;37;17,20
+Dalila X B Badaró;30;23,80
+Dalila T B Brandão;65;27,40
+Rafael X B França;73;24,60
+João T R Badaró;26;23,20
+Gabriel C Q Silva;50;28,20
+João F A Saldanha;38;18,30
+Daniel N F de Souza;40;26,80
+João E U de Souza;28;26,30
+Daniel D V Macedo;41;16,90
+Brian D W Saldanha;60;19,60
+Dalila X Z da Rocha;24;15,50
+André S E Badaró;33;17,00
+Gabriel R D Silva;41;23,50
+André E O Silva;75;19,40
+João U H Vieira;32;20,80
+Dalila O E Badaró;80;20,40
+Lucas E K Vargas;36;17,80
+Willer B L Brandão;63;22,50
+Willer C D Silva;38;24,80
+Bruna T G Macedo;60;22,10
+Rafael X B de Araujo;66;24,60
+Gabriel T X Silva;32;15,50
+Davi Y J Brandão;60;28,50
+Dalila T D de Araujo;48;24,50
+Willer N A França;53;22,50
+Brian S B de Souza;37;28,40
+Bruna Q O Brandão;23;20,00
+Daniel N Q Badaró;47;16,20
+João X B Vieira;32;23,10
+Bruna I P Vieira;63;27,70
+Bruna P Y França;58;25,30
+Bruna R I de Souza;80;18,70
+André F R Brandão;23;16,70
+Brian L B Vieira;17;16,90
+Willer T V Badaró;31;25,40
+Gabriel Z F Badaró;78;18,60
+Davi X O Vieira;60;26,00
+Rafael X A França;48;18,90
+Lucas J K Macedo;64;18,40
+Davi V Z Saldanha;56;24,80
+Gabriel Q N de Souza;61;20,10
+Bruna N M de Souza;41;16,70
+Lucas G B Brandão;61;20,00
+Fernando W J Brandão;46;28,30
+Davi V M Saldanha;25;26,00
+Lucas L O Badaró;31;26,10
+Brian M P Silva;22;16,40
+Brian D W Saldanha;59;19,10
+Dalila L C Badaró;74;23,10
+Davi O D França;26;17,10
+Davi E E Badaró;23;27,20
+Bruna F B de Souza;30;15,10
+Bruna X U Vargas;75;16,40
+Gabriel R M Silva;56;24,60
+Brian N K da Rocha;30;19,30
+Daniel H Y França;61;28,40
+Davi P C Vargas;30;22,00
+Willer C V Brandão;67;25,20
+João G U Saldanha;55;22,00
+Lucas I B Vieira;55;15,60
+Dalila Z V Vargas;73;23,80
+Davi O N França;73;20,90
+João C Q Vargas;17;18,30
+Gabriel H R Silva;73;27,80
+Lucas U J da Rocha;43;26,90
+Daniel A P Silva;80;19,00
+André Z H da Rocha;71;22,20
+Gabriel N F França;55;18,20
+Davi D J Badaró;61;19,40
+André Q K Vargas;22;27,40
+Willer X K Silva;58;26,80
+André A O de Araujo;40;20,00
+André R C Silva;60;28,90
+Dalila K P de Souza;27;28,00
+Bruna I E de Araujo;56;24,70
+Gabriel P Z França;25;26,60
+Dalila I L Badaró;80;18,10
+Daniel H M Saldanha;46;25,00
+Rafael H W Vargas;40;15,00
+Dalila H K Saldanha;50;22,80
+Rafael M C Badaró;46;22,40
+Gabriel L U Macedo;38;22,90
+André H G Vieira;33;27,40
+João L Q Vargas;27;16,70
+Gabriel H C Vieira;31;16,50
+Daniel N G da Rocha;33;21,20
+Davi L H Macedo;72;20,30
+André I U Vargas;78;27,00
+Willer H E Silva;72;18,80
+Fernando U Q da Rocha;43;28,30
+Davi W M Saldanha;31;20,30
+Brian Z Q Brandão;37;24,30
+André K D Macedo;38;17,90
+Lucas J Z Silva;79;24,20
+Willer S E Vieira;34;22,70
+Brian N F Saldanha;25;27,70
+Brian R Q Saldanha;73;19,50
+Bruna X D de Araujo;30;16,40
+Fernando N O Brandão;62;15,90
+Fernando Q H Vargas;25;24,50
+Bruna L N Macedo;20;17,70
+Bruna U G Badaró;76;23,10
+Daniel T I Silva;21;27,30
+Gabriel W U Saldanha;27;21,30
+Daniel Z H Vieira;59;28,60
+Gabriel E N Silva;23;21,00
+Lucas N V Saldanha;66;24,70
+Daniel A P Brandão;62;20,80
+Willer B B Vargas;75;22,80
+Davi Q D Vargas;25;28,40
+Bruna A I da Rocha;31;19,80
+Rafael P O Brandão;66;22,10
+Daniel Q Y Badaró;63;23,10
+Fernando K Z França;78;23,10
+Brian W N Badaró;24;22,00
+Davi U X Saldanha;72;18,50
+Dalila X H de Souza;17;25,90
+Rafael K C Brandão;54;19,10
+Davi O O Macedo;47;20,70
+André Y Q Vieira;60;24,40
+Dalila W H Silva;52;21,10
+Daniel K E Vargas;28;24,60
+Bruna M B Brandão;44;19,80
+Gabriel T S Badaró;79;17,40
+André D U Vieira;68;16,30
+João Q N Brandão;49;22,60
+Lucas O Y Macedo;44;22,60
+Brian F W Silva;73;19,80
+Fernando J R Silva;19;25,60
+Lucas X D de Souza;19;20,50
+João C E Vargas;21;24,10
+Rafael A F Saldanha;48;22,60
+Lucas Z L Saldanha;80;25,90
+Daniel E T Vieira;42;20,70
+Dalila Z R Badaró;70;26,60
+Willer Y B Vieira;80;16,40
+Willer H C de Souza;43;21,50
+Fernando B A Saldanha;49;15,90
+Davi Y Q de Souza;51;28,90
+Lucas D R Badaró;38;20,80
+André R W França;69;20,50
+João Y R da Rocha;41;19,00
+Bruna N K de Souza;80;23,50
+Rafael H Z Silva;64;27,30
+Dalila Q W Saldanha;34;16,80
+Rafael Y R Silva;80;21,70
+Lucas O Q de Araujo;67;23,00
+Bruna L Y Badaró;46;28,70
+Gabriel L N Macedo;75;26,80
+Willer J U Macedo;50;18,70
+Bruna X Y Brandão;45;28,20
+João Q B Brandão;47;24,60
+Dalila K H Vieira;60;28,50
+Davi S M Macedo;49;26,80
+Lucas A M Vargas;58;23,30
+Lucas F B Vargas;34;23,10
+Daniel F J Saldanha;76;16,30
+Fernando W P Brandão;19;25,40
+Rafael H E Saldanha;41;25,60
+André G J Vargas;31;27,40
+Daniel V J Silva;75;20,70
+Bruna O T França;41;21,90
+Davi U I Vargas;77;22,90
+João Y S da Rocha;77;27,80
+Davi N W da Rocha;67;17,90
+Gabriel S C Silva;41;25,60
+Dalila A A Brandão;51;22,80
+Lucas Z C Silva;31;26,10
+Davi Q Q Vargas;25;18,80
+Dalila Y G de Araujo;73;24,60
+Fernando R Z Badaró;25;18,90
+Dalila R G França;68;22,00
+Davi S A Saldanha;76;25,20
+Willer E H Badaró;77;16,70
+Rafael U B Badaró;65;25,90
+André F S de Araujo;55;18,80
+Gabriel R D Vargas;41;17,70
+Dalila T J Vieira;17;28,90
+Lucas G Y Vieira;48;21,20
+Lucas X T de Souza;65;16,10
+Lucas R K Saldanha;48;20,70
+André W G Vargas;55;15,80
+Davi O O Saldanha;52;25,10
+Gabriel H V França;67;26,80
+Daniel Y R da Rocha;41;27,10
+Fernando D K Vieira;64;20,40
+Davi O Q da Rocha;67;17,50
+Brian X U Macedo;72;23,40
+Lucas N V França;58;27,30
+André Z C de Souza;44;20,40
+João Q G Silva;40;25,10
+Dalila W Y Vargas;69;27,30
+Gabriel X C Saldanha;57;19,70
+Lucas J O França;76;22,20
+João Y J Vargas;74;26,60
+Lucas T A Vargas;47;19,10
+Dalila W X de Souza;37;21,40
+André A L Saldanha;49;23,40
+Gabriel N K Saldanha;41;26,20
+Bruna R T de Souza;32;17,10
+Daniel B X de Araujo;70;28,80
+Fernando R Q de Souza;69;22,70
+Brian D Y da Rocha;58;18,30
+Dalila F C Saldanha;62;15,80
+João U E da Rocha;56;17,90
+Rafael Y D França;43;20,10
+Bruna R B França;70;25,50
+Lucas I M Vargas;31;18,80
+Fernando X Y Brandão;57;25,60
+Davi R W de Souza;50;23,10
+Fernando L F Vieira;62;19,20
+Lucas I Z Badaró;37;27,30
+João B D Macedo;77;18,30
+Dalila A C Badaró;32;26,50
+André Q N Saldanha;67;26,70
+Gabriel C K Brandão;17;23,90
+Dalila V I de Souza;38;23,90
+Brian C V Vieira;43;19,40
+Gabriel M O de Souza;17;17,60
+Fernando C Z Badaró;28;27,60
+Dalila K W de Souza;45;17,10
+Fernando V Q Badaró;75;26,40
+Dalila A S de Araujo;32;17,70
+João Z D Badaró;72;16,70
+João F T França;42;27,90
+Brian J O Badaró;73;19,90
+Bruna M Z da Rocha;66;19,00
+Fernando J F França;26;20,20
+Daniel Y V da Rocha;27;25,60
+Brian C H Vieira;45;28,40
+Dalila Q G França;26;17,70
+João K A de Souza;53;26,10
+Gabriel P U Brandão;39;23,70
+Brian X L de Souza;75;28,00
+Lucas X D Silva;31;22,10
+Rafael R O Saldanha;64;20,60
+André J A Vieira;78;26,50
+Dalila Q B de Araujo;44;28,60
+Rafael P X Silva;43;20,50
+Dalila P N Vieira;56;25,00
+André K Y de Souza;27;16,70
+André U N Saldanha;61;27,00
+João D G Macedo;60;22,60
+Lucas I Y Macedo;66;27,70
+Dalila D Z Badaró;49;27,20
+Fernando D U Badaró;36;15,50
+André I X Silva;76;18,80
+Bruna Q C Vargas;43;20,40
+Davi D D Saldanha;50;18,40
+Brian D P de Souza;57;16,10
+Dalila E K Macedo;69;19,40
+Fernando I L da Rocha;36;25,60
+João J D Vargas;57;25,20
+Lucas Z A França;46;19,60
+André V X Vieira;57;19,60
+Rafael X U França;18;22,70
+Gabriel X Y Badaró;21;16,30
+Brian O D Silva;44;17,10
+André M U de Souza;65;18,90
+Lucas K V Saldanha;56;23,10
+Davi Y M de Souza;55;19,80
+Brian E Z de Araujo;26;25,00
+Lucas F T Silva;54;19,90
+Lucas W O de Araujo;44;24,90
+André W Q da Rocha;50;16,80
+Bruna L D de Souza;40;16,10
+Fernando F T de Araujo;56;25,90
+Lucas M S Saldanha;40;24,40
+Daniel T T de Souza;29;21,80
+Davi A O Macedo;57;16,10
+André S I França;23;17,90
+Brian X B Brandão;31;26,90
+Brian K D da Rocha;31;23,40
+Davi Q J de Souza;68;28,80
+André X Z Silva;30;21,00
+Bruna Q D Silva;66;26,80
+Dalila U Z França;68;28,10
+Gabriel P A Saldanha;74;19,60
+Willer Y T de Souza;77;21,00
+Bruna K V Vargas;28;28,20
+Daniel B G Vargas;67;27,00
+Lucas T B da Rocha;27;28,20
+Dalila V J Vieira;58;19,40
+Rafael C V Vargas;23;26,50
+Willer W I França;36;15,30
+Brian E D Vargas;62;15,10
+João I W Brandão;74;16,50
+Willer H W de Souza;74;23,30
+Rafael R C da Rocha;31;18,50
+Dalila S X Badaró;68;15,70
+Bruna U A Silva;63;27,30
+Bruna R K Badaró;69;22,20
+Brian W J de Araujo;75;25,90
+Lucas X E de Souza;59;28,00
+André O E França;65;16,80
+Dalila N V de Araujo;42;27,30
+Daniel M I Badaró;19;18,90
+Rafael V W Vieira;29;24,40
+Fernando L P Brandão;32;21,50
+Bruna G P Vieira;60;23,00
+João Q Q Macedo;70;21,40
+Bruna D G Badaró;60;16,50
+Gabriel O B de Araujo;29;26,10
+Dalila G Y Vieira;29;25,40
+Daniel D Z Saldanha;50;19,50
+Gabriel Z P de Araujo;50;21,90
+Rafael X G de Souza;33;24,90
+Davi U K Badaró;41;18,00
+André B C Silva;79;21,20
+André F Z Vargas;47;18,30
+Brian Z V Vargas;61;24,60
+Fernando E M Vargas;55;25,00
+Willer D E Saldanha;21;25,30
+Lucas T L de Souza;21;22,80
+André T Z Brandão;47;17,80
+Lucas P E Saldanha;30;20,90
+Fernando F K Vieira;65;28,70
+Brian Q K Vieira;49;21,30
+Rafael V C de Souza;75;23,80
+Davi X L França;67;23,60
+Davi W L Saldanha;57;20,00
+Lucas O G de Souza;75;24,00
+Fernando P X Saldanha;56;26,40
+Davi T S Vargas;40;20,60
+André E X da Rocha;66;24,60
+Bruna Y Q França;18;19,00
+Davi F B de Souza;39;15,40
+Rafael V Y França;58;15,60
+Daniel O R Saldanha;55;20,30
+João L P Vieira;35;18,00
+Rafael N Z Saldanha;72;19,00
+Daniel R G Saldanha;79;16,90
+Gabriel P M Brandão;77;22,00
+Daniel T H Brandão;77;28,40
+André Y E Vieira;43;21,30
+Willer F I Brandão;29;24,70
+Fernando M I Macedo;29;23,60
+Daniel K O Brandão;80;27,00
+André F C Brandão;56;22,70
+João K R Macedo;33;19,60
+Lucas Y D Saldanha;21;27,40
+Fernando N L de Souza;78;21,90
+Bruna S V França;75;16,30
+Dalila T K Badaró;77;17,80
+Davi U J da Rocha;48;21,50
+Dalila X A Vieira;44;28,50
+Dalila T V Vargas;52;22,50
+Davi H D Vargas;28;25,00
+Dalila Y C da Rocha;72;15,80
+Lucas V V Silva;27;25,60
+Lucas L C da Rocha;56;15,00
+Fernando C B Saldanha;50;17,50
+Lucas D E Saldanha;60;22,20
+Rafael S J França;68;18,80
+Rafael D L Saldanha;40;21,50
+Davi L N França;80;22,40
+Rafael Z C Silva;20;18,90
+Daniel D R Silva;37;23,00
+Gabriel Z V da Rocha;73;26,70
+André T G Silva;72;24,50
+Willer B I Badaró;76;15,70
+Dalila G X Vieira;47;18,30
+Daniel L P Badaró;32;25,90
+Brian F F Badaró;29;17,70
+Dalila X K Vieira;54;27,80
+Lucas I F de Souza;34;24,10
+João K F de Souza;48;21,80
+João R O Brandão;45;20,20
+João K L Saldanha;75;17,50
+João Y W Brandão;69;26,70
+Brian O J da Rocha;77;19,60
+Davi A O de Souza;62;19,50
+André O M da Rocha;22;24,80
+Davi X M Saldanha;68;18,00
+Fernando W P da Rocha;75;24,10
+Fernando I G Macedo;42;19,10
+Lucas Y U da Rocha;47;17,80
+Daniel G O de Souza;60;25,20
+Dalila J X França;27;15,30
+André A I Saldanha;20;22,30
+João W D Badaró;73;17,90
+Fernando M D Vargas;56;18,90
+Willer K O Vargas;24;18,00
+Davi P S Saldanha;61;25,30
+André P H da Rocha;23;26,10
+André X P Vieira;51;23,00
+Davi N A Macedo;47;15,80
+André Z U Badaró;78;16,10
+Lucas B D Vargas;35;28,10
+Fernando O V Saldanha;44;21,10
+Lucas K N de Araujo;34;17,80
+Daniel X I França;65;15,00
+Brian V C Brandão;59;24,80
+Fernando H W Brandão;41;26,60
+Dalila U Z Saldanha;27;23,20
+Bruna D A Macedo;44;17,60
+João S W Macedo;23;23,80
+Lucas K C Badaró;56;17,10
+Daniel U H Saldanha;57;27,20
+Gabriel Y Y Saldanha;61;23,50
+Brian N V da Rocha;79;20,00
+Willer N N de Araujo;28;28,00
+Fernando Z Q Saldanha;40;26,00
+Willer W J da Rocha;30;23,70
+João M A da Rocha;49;26,30
+Daniel P N Silva;28;19,80
+Brian Y C da Rocha;48;18,50
+Brian S T de Souza;55;18,60
+Davi Z Y França;18;26,50
+João I K Vargas;23;20,80
+André V O de Souza;56;21,30
+André P Z de Araujo;25;19,40
+Brian T U Vargas;25;17,80
+Daniel C E de Araujo;36;21,20
+Bruna G V Vargas;52;23,70
+Brian Q I Saldanha;39;22,80
+Daniel D E Vieira;28;22,80
+João C Z Saldanha;19;25,90
+Fernando K D França;80;17,50
+Brian K F Saldanha;79;15,30
+Rafael K N Brandão;71;23,30
+Davi X J de Araujo;40;25,20
+Rafael P Z Vargas;56;28,40
+Daniel X V Vargas;54;28,80
+Brian Q A de Souza;56;18,60
+Gabriel A Y Vargas;50;15,90
+Lucas Y U Saldanha;27;25,80
+Davi N P da Rocha;76;21,60
+Rafael U A Vieira;31;24,00
+Dalila G C Macedo;29;20,70
+Fernando U S Vargas;34;18,70
+Willer J B Saldanha;32;21,50
+Rafael Z I Brandão;39;20,10
+Fernando Y J Vieira;40;25,60
+Davi L U França;56;27,20
+Rafael F H Vieira;76;15,60
+Bruna M I Saldanha;34;28,30
+Lucas Y C Silva;72;15,80
+Dalila C M Macedo;47;18,30
+Dalila Z M de Araujo;37;27,10
+Fernando C M Macedo;30;25,80
+Willer W N Vieira;41;28,10
+Dalila Z V Brandão;20;18,10
+Fernando R C Brandão;22;16,40
+Bruna Y B de Araujo;54;23,80
+Lucas W D Saldanha;27;23,10
+Willer P C França;50;27,20
+Davi W H França;39;19,40
+Dalila T S Vieira;64;23,40
+João B J Macedo;33;16,70
+Willer Y F da Rocha;65;26,80
+Rafael H H Vieira;73;23,10
+Lucas J W Brandão;65;17,60
+Rafael Q I Vargas;20;27,50
+Daniel C Q Vieira;55;22,00
+Daniel K H Saldanha;61;15,10
+Willer A P Saldanha;68;20,50
+Willer D T de Araujo;62;19,90
+Brian W E de Souza;72;21,50
+João K C Silva;62;23,40
+Willer Y O Vargas;63;27,30
+Fernando E N Badaró;56;25,60
+Rafael M V Brandão;20;26,50
+Gabriel V W Vieira;25;18,60
+Brian J X Saldanha;56;17,70
+Davi C D Vargas;22;24,60
+Bruna Z D Saldanha;32;18,80
+Fernando W A Vieira;39;17,90
+Willer O Z Badaró;22;16,70
+Lucas F N Macedo;57;28,10
+Dalila A Y Saldanha;61;24,40
+Lucas L J França;65;17,30
+Fernando Q B Badaró;70;26,70
+Bruna S I de Araujo;69;27,80
+Gabriel B C de Araujo;33;28,90
+Dalila P I França;76;16,50
+Rafael W S da Rocha;74;22,60
+Dalila H B França;46;26,10
+Bruna B E Vargas;18;25,80
+Lucas G U de Souza;30;25,60
+Daniel K K de Araujo;74;17,70
+André J N Vieira;43;19,10
+Bruna P O de Souza;35;24,50
+Gabriel R S Saldanha;20;25,10
+Brian R O de Araujo;26;22,00
+Willer F F Badaró;49;19,10
+Dalila Z K Silva;61;16,50
+Gabriel E V da Rocha;24;20,80
+Rafael Q G da Rocha;34;27,40
+André L J Vargas;42;28,40
+Bruna S M França;40;22,70
+Daniel H S Vieira;36;20,50
+João Z D de Souza;57;18,20
+Davi Y A da Rocha;62;21,50
+Willer U F França;19;25,80
+Willer B O de Souza;67;16,00
+Lucas I X Brandão;71;15,40
+Fernando D Z de Souza;31;20,10
+Bruna S B Saldanha;24;21,80
+Gabriel Z I da Rocha;53;20,60
+Davi Z G Brandão;53;18,40
+Bruna C G Saldanha;22;18,80
+Dalila R W de Araujo;39;27,60
+Brian N X França;22;17,70
+Daniel N B Vargas;48;26,80
+Gabriel O C de Araujo;18;20,00
+Fernando L Q Vargas;21;16,50
+Davi Z M Silva;57;22,00
+Daniel W Z Brandão;20;23,70
+Lucas B M da Rocha;59;17,80
+Brian P W de Araujo;29;23,80
+Rafael S U Saldanha;62;22,10
+Daniel T P Vargas;61;22,50
+Bruna X F Brandão;51;20,20
+Fernando E C Badaró;26;18,80
+Gabriel S X Silva;61;23,10
+Davi S V de Araujo;73;16,60
+Fernando U Z de Araujo;44;17,50
+Fernando I D Saldanha;79;18,00
+Dalila O Q de Araujo;53;25,50
+Dalila S C da Rocha;80;23,50
+Daniel U I Vieira;19;18,00
+Gabriel A W Silva;39;22,40
+Davi B E Vieira;39;26,90
+Rafael K W da Rocha;44;15,40
+Fernando G R Badaró;74;23,50
+Gabriel E C Badaró;79;17,70
+Brian L E Badaró;37;26,60
+Rafael A B Badaró;60;18,00
+Bruna U Y de Souza;19;16,70
+André M D de Araujo;17;28,10
+Fernando W Z Badaró;67;17,90
+Brian O M Vieira;36;21,90
+André O I Saldanha;37;27,60
+Daniel G D Macedo;20;15,00
+João B Y Saldanha;47;26,30
+Willer W Z de Araujo;77;15,70
+André O C Saldanha;71;26,50
+Daniel Z X Vargas;33;26,60
+André O E de Araujo;50;24,70
+João B Z Macedo;27;24,90
+Lucas W S de Souza;70;15,00
+João P F Vieira;53;24,00
+Lucas O F Saldanha;17;27,10
+Davi D R Vieira;58;23,90
+Gabriel G T Saldanha;42;27,20
+Davi D T Vargas;73;24,20
+Fernando S N França;34;25,80
+Davi A U Saldanha;38;18,70
+Dalila F J de Araujo;69;21,60
+João Q J da Rocha;78;28,50
+Bruna V J Saldanha;66;23,30
+João B T Saldanha;58;20,20
+João P Q Badaró;63;28,40
+Willer G Q Vargas;40;21,90
+Lucas Z W de Souza;66;22,50
+João U T Vargas;69;24,60
+Dalila M P Brandão;27;19,30
+Davi V Y França;74;15,80
+Dalila B N Macedo;39;16,60
+João X L Badaró;39;27,80
+João B J Vieira;45;27,60
+Willer N E da Rocha;71;21,40
+Brian J S Saldanha;47;22,00
+Brian Q O Silva;46;24,30
+Fernando Y O Saldanha;76;23,20
+Brian T U Saldanha;19;16,00
+André A J Macedo;25;15,90
+Dalila H G Saldanha;68;24,80
+Rafael O S de Souza;60;24,30
+Lucas R Y Badaró;78;18,80
+Fernando A O de Araujo;71;15,70
+Willer H I de Araujo;78;20,90
+Davi S J Saldanha;62;23,30
+Willer E J Vargas;61;22,80
+Dalila L A França;73;15,20
+Daniel E I de Souza;50;17,50
+João B T de Araujo;64;18,70
+Fernando X S Saldanha;36;21,10
+Lucas J F de Souza;62;21,40
+João N F Saldanha;40;24,70
+Dalila V L França;19;18,50
+Lucas B P Silva;36;15,10
+Dalila U Z da Rocha;71;15,00
+Bruna J N Macedo;17;15,10
+André O R Vieira;50;27,60
+Rafael Z U Vieira;60;17,30
+Daniel N B Vargas;44;24,00
+Willer T E de Souza;20;26,90
+Willer B K Saldanha;36;22,80
+André G Y Macedo;57;19,40
+Dalila I M França;22;22,90
+Gabriel I K França;43;17,60
+Gabriel S H de Araujo;36;26,40
+Brian N M Vargas;21;28,00
+Rafael D J Saldanha;76;19,70
+Brian K Q Saldanha;80;28,10
+Daniel H U França;19;26,60
+Gabriel O C França;30;28,00
+Bruna M F Badaró;44;27,60
+Davi X B Vargas;30;15,80
+Bruna J I de Araujo;20;19,90
+Davi H I França;41;22,10
+Daniel N O Macedo;47;28,30
+João G D de Souza;50;27,70
+Daniel A R Vieira;46;28,20
+Dalila X N da Rocha;53;17,40
+Lucas U W da Rocha;68;18,00
+Rafael P Y Vieira;40;28,60
+Willer R J da Rocha;45;22,50
+Dalila F U Vieira;19;27,60
+Dalila J F da Rocha;62;19,00
+Dalila U Y França;56;24,70
+Lucas Z R Vargas;30;22,60
+André O B Saldanha;69;18,60
+Brian V U Saldanha;73;22,40
+Bruna K P Saldanha;50;28,90
+Rafael S J Saldanha;34;21,90
+Dalila V V de Araujo;39;15,00
+Fernando C L da Rocha;35;25,80
+Fernando I M França;28;17,70
+André F Z Badaró;50;21,90
+Willer X G França;34;20,00
+Daniel G V de Araujo;74;24,70
+Rafael I D da Rocha;44;21,90
+Daniel D H de Souza;41;21,00
+Gabriel R S de Araujo;66;25,10
+Daniel M J Vieira;44;15,90
+Davi W Q Vieira;43;20,60
+Bruna W I Badaró;69;19,60
+Gabriel O Z de Souza;18;16,20
+Davi G J da Rocha;42;25,00
+Daniel S X Vieira;36;23,10
+Lucas C F Silva;65;16,80
+Gabriel H Z França;29;22,30
+Lucas C N Badaró;36;26,40
+Rafael Q K Badaró;41;28,70
+Bruna D O Saldanha;79;16,60
+André Y D Badaró;73;28,70
+Bruna V P de Souza;29;16,70
+Bruna M W França;62;22,80
+Dalila K S Vargas;75;17,30
+Davi W G Vieira;53;28,40
+Bruna J Q Saldanha;78;26,70
+João T Y Macedo;60;15,50
+Rafael S T Vieira;79;22,60
+João Q A de Souza;76;15,90
+Bruna Q B França;43;23,50
+Willer G L França;67;19,00
+Gabriel C A Saldanha;79;23,20
+Bruna X A Saldanha;57;21,90
+Rafael X O Vieira;56;20,10
+Rafael H G Badaró;31;22,50
+Dalila O A de Souza;53;19,00
+Daniel N N França;68;23,80
+André P M França;34;22,80
+Dalila S P Saldanha;46;20,40
+Fernando Y C Silva;66;28,20
+Daniel V Q Brandão;65;19,70
+Brian E W Vargas;58;24,50
+Rafael U S de Araujo;73;27,50
+Daniel B X França;80;20,50
+Rafael M C Badaró;32;27,90
+Daniel B E Saldanha;61;20,90
+João E Q da Rocha;53;28,50
+Willer Z R de Araujo;76;22,20
+Fernando P P França;34;21,30
+Gabriel H X Vargas;51;22,50
+Lucas C W de Araujo;18;20,00
+Daniel V K Badaró;78;28,90
+Davi C F Saldanha;70;15,40
+Davi B R Silva;77;27,40
+Willer U S Macedo;43;24,90
+Bruna V F Brandão;25;20,50
+André V T Saldanha;56;19,60
+João O F Vieira;79;18,90
+João G A Silva;42;27,30
+João E O de Souza;43;22,10
+Lucas W P Brandão;79;21,30
+Dalila E H França;23;20,30
+André B A Macedo;23;15,80
+Fernando Y O Vargas;55;26,90
+Gabriel W T de Araujo;66;23,70
+João C C Saldanha;39;21,10
+Gabriel V A França;22;24,40
+Fernando E L França;51;16,90
+Daniel R C de Souza;51;19,70
+Davi R D Vargas;78;24,20
+Daniel F R Vieira;76;18,40
+Willer Z S Saldanha;46;15,00
+Davi P P Vargas;73;24,50
+Brian K U França;63;21,20
+Dalila L N de Araujo;38;26,80
+Lucas A Q da Rocha;76;18,80
+Dalila Y L Silva;26;27,30
+Gabriel Q C Vieira;22;19,70
+Dalila X E de Souza;41;22,70
+Dalila T W da Rocha;21;18,10
+Daniel B P Brandão;56;27,10
+Davi F L da Rocha;51;16,10
+Bruna F O Saldanha;24;18,30
+Lucas W X da Rocha;69;27,20
+Lucas Q F Vargas;38;20,70
+Gabriel O D Saldanha;64;26,50
+Rafael D O de Araujo;79;21,40
+Willer F B Silva;65;16,40
+Brian W Z da Rocha;63;26,70
