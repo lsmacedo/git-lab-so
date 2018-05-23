@@ -1,5 +1,6 @@
 package DAO;
 
+import Main.Main;
 import Objects.Pedido;
 
 import java.io.BufferedReader;
@@ -11,10 +12,10 @@ import java.util.List;
 public class PedidoDAO {
 
     private static String[] lerRegistro() throws IOException {
-        BufferedReader br = new BufferedReader(new FileReader("dados17.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("dados" + Main.n + ".txt"));
 
         String linha;
-        int i = 0; int tam = (int) Math.pow(2, 17);
+        int i = 0; int tam = (int) Math.pow(2, Main.n);
         String[] pedidos = new String[tam];
 
         while ((linha = br.readLine()) != null) {

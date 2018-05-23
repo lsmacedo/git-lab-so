@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 public class Main {
 
+    public static int n = 0;
+
     public static void main(String[] args) {
 
         try {
@@ -13,50 +15,47 @@ public class Main {
             Scanner in = new Scanner(System.in);
             int resp = -1;
 
-            for (int i = 1; i <= 4; i++) {
+            for (int n = 10; n <= 20; n++) {
 
-                System.out.println("\n----------ORDER SIMULATOR 9000----------\n");
+                Main.n = n;
 
-                System.out.println("SELECIONE A ORDEM DOS PEDIDOS");
-                System.out.println("1 - Ordem de chegada");
-                System.out.println("2 - Menores pedidos primeiro");
-                System.out.println("3 - Atendimento em rodízio");
-                System.out.println("4 - Maior pagamento por kg primeiro");
-                System.out.println("-------------------------------------------");
-                System.out.println("9 - Sair do menu");
+                System.out.println("----- " + n + " -----");
 
-                System.out.print("\n >>  ");
-                resp = i;
-                System.out.println(i);
+                for (int i = 1; i <= 4; i++) {
 
-                Scheduler ordem = null;
-                boolean inicializouScheduler = true;
+                    System.out.print("\n >>  ");
+                    resp = i;
+                    System.out.println(i);
 
-                switch (resp) {
+                    Scheduler ordem = null;
+                    boolean inicializouScheduler = true;
 
-                    case 1:
-                        ordem = new SchedulerFCFS();
-                        break;
-                    case 2:
-                        ordem = new SchedulerSJN();
-                        break;
-                    case 3:
-                        ordem = new SchedulerRotation();
-                        break;
-                    case 4:
-                        ordem = new SchedulerPriority();
-                        break;
-                    case 9:
-                        return;
-                    default:
-                        inicializouScheduler = false;
-                }
+                    switch (resp) {
 
-                if (inicializouScheduler) {
-                    long tempoInicial = System.currentTimeMillis();
-                    ordem.simularPedidos();
-                    long tempoFinal = System.currentTimeMillis();
-                    System.out.println((tempoFinal - tempoInicial) + "ms");
+                        case 1:
+                            ordem = new SchedulerFCFS();
+                            break;
+                        case 2:
+                            ordem = new SchedulerSJN();
+                            break;
+                        case 3:
+                            ordem = new SchedulerRotation();
+                            break;
+                        case 4:
+                            ordem = new SchedulerPriority();
+                            break;
+                        case 9:
+                            return;
+                        default:
+                            inicializouScheduler = false;
+                    }
+
+                    if (inicializouScheduler) {
+                        long tempoInicial = System.currentTimeMillis();
+                        ordem.simularPedidos();
+                        long tempoFinal = System.currentTimeMillis();
+                        System.out.println((tempoFinal - tempoInicial) + "ms");
+                    }
                 }
 
             }
